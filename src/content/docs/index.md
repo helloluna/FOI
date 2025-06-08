@@ -5,8 +5,8 @@ description: Overview of WA's animal welfare FOI timeline and structural gaps.
 
 # WA Animal Welfare Transparency Archive
 
-> *A public memory for those whose suffering is hidden.  
-> An archive against forgetting.*
+> *A public memory — for those whose suffering is hidden. 
+> An archive — against forgetting.*
 --- 
 An independent documentation effort to expose the systemic invisibility of farmed animals in Western Australia — and the institutions that obscure it.
 

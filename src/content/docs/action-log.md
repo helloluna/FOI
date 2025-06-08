@@ -18,6 +18,8 @@ This log preserves that cycle,
 ---
 
 ## 🔁 Cycle 1 – FOI on Designated Inspectors (DPIRD)
+> *The first record of structural refusal.  
+A formal trace of institutional silence.*
 
 ### 📅 Timeline of Requests and Responses
 
@@ -30,11 +32,10 @@ This log preserves that cycle,
 | 30 May 2025 | Notice of Decision issued — confirms absence     | [Notice of Decision](/resources/notice_of_decision.pdf) |
 | 6 Jun 2025 | Response cycle concluded and archived             | [Inspection Summary](/resources/foi_document_1_summary.pdf) |
 
-**Summary:**  
-- No internal audits, enforcement outcomes, or DI-related data was found to exist.  
-- One document created post-request: a generic checklist with no substantive findings.  
-- Systemic silence formally acknowledged through a Section 26 refusal.
-
+> **📝 Summary:**  
+> • No internal audits, enforcement outcomes, or DI-related data was found to exist.  
+> • One document was created post-request: a generic checklist with no substantive findings.  
+> • Systemic silence was **formally acknowledged** through a Section 26 refusal.
 ---
 
 ## ✉️ Institutional Contact Log
@@ -57,6 +58,9 @@ This log preserves that cycle,
 These letters do not ask for sympathy — they ask for **institutional record and response**.
 
 ---
+
+> *This archive is not static.  
+Each new request is a test of what the system refuses to hold.*
 
 ## 🧭 Forthcoming Cycles
 

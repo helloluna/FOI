@@ -1,34 +1,35 @@
-/* src/styles/starlight.css */
-
-/* 1. 全局变量：颜色+字体+间距 */
+/* starlight.css —— 全站柔和无衬线风格 & sidebar美化 */
 :root {
-  --sl-color-text: #28241c;
+  --sl-font-body: "Helvetica Neue", Helvetica, Arial, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
+  --sl-font-heading: "Helvetica Neue", Helvetica, Arial, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
+  --sl-color-text: #202122;
   --sl-color-background: #fcf9f2;
   --sl-color-brand: #990000;
   --sl-color-link: var(--sl-color-brand);
   --sl-color-link-hover: #7c0000;
   --sl-color-border: #e0dcd2;
-  --sl-font-body: "Palatino Linotype", "Times New Roman", serif;
-  --sl-font-heading: "Palatino Linotype", serif;
   --sl-content-width: 45rem;
   --sl-line-height: 1.85;
   --sl-space-block: 2.2rem;
 }
 
-/* 2. 主体区域字体与背景 */
+/* 全站正文、标题字体都 Helvetica */
+body, h1, h2, h3, h4, h5, h6, nav, .sl-sidebar, .sl-markdown, input, button {
+  font-family: var(--sl-font-body);
+}
+
+/* 正文 */
 body {
   background: var(--sl-color-background);
   color: var(--sl-color-text);
-  font-family: var(--sl-font-body);
   line-height: var(--sl-line-height);
-  letter-spacing: 0.05em;
+  letter-spacing: 0.01em;
 }
 
-/* 3. 标题 */
+/* 标题 */
 h1, h2, h3, h4 {
-  font-family: var(--sl-font-heading);
   color: var(--sl-color-brand);
-  font-weight: normal;
+  font-weight: 700;
   margin-top: var(--sl-space-block);
   margin-bottom: 1rem;
 }
@@ -36,7 +37,7 @@ h1 { font-size: 2.4rem; }
 h2 { font-size: 1.7rem; }
 h3 { font-size: 1.28rem; }
 
-/* 4. 段落与区块呼吸感 */
+/* 段落与区块间距 */
 p, ul, ol, table, blockquote, .sl-markdown > * {
   margin-bottom: 1.35em;
   margin-top: 0.2em;
@@ -45,7 +46,7 @@ section, .sl-markdown > * + * {
   margin-top: var(--sl-space-block);
 }
 
-/* 5. 链接 */
+/* 链接 */
 a {
   color: var(--sl-color-link);
   border-bottom: 1px dotted var(--sl-color-link);
@@ -57,7 +58,7 @@ a:hover {
   border-bottom-color: var(--sl-color-link-hover);
 }
 
-/* 6. 引用 */
+/* 引用 */
 blockquote {
   border-left: 4px solid var(--sl-color-border);
   background: rgba(224, 220, 210, 0.3);
@@ -66,7 +67,7 @@ blockquote {
   margin: var(--sl-space-block) 0;
 }
 
-/* 7. 表格 */
+/* 表格 */
 table {
   border-collapse: collapse;
   width: 100%;
@@ -81,10 +82,9 @@ thead th {
   background: rgba(153,0,0,0.08);
 }
 
-/* 8. Sidebar */
-nav, .sl-sidebar {
-  font-family: var(--sl-font-body);
-}
+/* Sidebar 优化：淡红高亮，无虚线 */
+
+
 .sl-sidebar ul {
   border: none !important;
 }
@@ -102,19 +102,125 @@ nav, .sl-sidebar {
 }
 .sl-sidebar a.active,
 .sl-sidebar .active > a {
-  background: #fae6e6 !important;
+  background: #f9e2e2 !important;
   color: var(--sl-color-brand) !important;
   font-weight: bold;
 }
 
-/* 9. 搜索输入框/辅助按钮 */
-input, button {
-  font-family: var(--sl-font-body);
-}
-
-/* 10. 手机适配 */
 @media (max-width: 700px) {
   body {
     padding: 1.1rem 0.5rem;
   }
+}
+
+:root {
+  --sl-font-body: 'Inter', 'Segoe UI', 'Helvetica Neue', Arial, 'Noto Sans', 'Nunito', sans-serif;
+  --sl-font-heading: 'Inter', 'Segoe UI', 'Helvetica Neue', Arial, 'Noto Sans', 'Nunito', sans-serif;
+
+  --sl-color-text: #23201a;
+  --sl-color-background: #fcf9f2;
+  --sl-color-brand: #990000;    /* 玫瑰红 */
+  --sl-color-link: #990000;
+  --sl-color-link-hover: #7c0000;
+  --sl-color-border: #e0dcd2;
+  --sl-content-width: 45rem;
+}
+
+/* 全站正文与导航区域都统一用无衬线体 */
+body, .sl-root, .sl-markdown, nav, .sl-sidebar {
+  font-family: var(--sl-font-body) !important;
+  font-size: 1.07rem;
+  font-weight: 400;
+  background: var(--sl-color-background);
+  color: var(--sl-color-text);
+  line-height: 1.75;
+  letter-spacing: .2px;
+}
+
+/* 标题（h1/h2/h3）—— 用无衬线体/加一点间距/柔和主色 */
+h1, h2, h3, .sl-markdown h1, .sl-markdown h2, .sl-markdown h3 {
+  color: var(--sl-color-brand);
+  font-family: var(--sl-font-heading) !important;
+  font-weight: 600;
+  margin-top: 2.1rem;
+  margin-bottom: 1.2rem;
+  letter-spacing: .1px;
+}
+
+h1, .sl-markdown h1 { font-size: 2.3rem; }
+h2, .sl-markdown h2 { font-size: 1.5rem; }
+h3, .sl-markdown h3 { font-size: 1.17rem; }
+
+/* 侧栏分区标题加深色/加大字重 */
+.sl-sidebar-section-title {
+  color: #332922;
+  font-weight: 700;
+  font-size: 1.08rem;
+  margin-bottom: 0.3rem;
+}
+
+/* Sidebar（侧边栏）选中项高亮美化 */
+nav [aria-current="page"],
+nav [data-active="true"] {
+  background: #fae8ea !important;    /* 柔和玫瑰米白 */
+  color: #990000 !important;         /* 玫瑰红 */
+  font-weight: 700;
+  border-radius: 7px;
+  box-shadow: none !important;
+}
+
+/* 侧栏全部文字统一间距/色调 */
+nav, .sl-sidebar {
+  font-family: var(--sl-font-body) !important;
+  font-size: 1.07rem;
+  letter-spacing: .02em;
+}
+
+/* 表格 */
+.sl-markdown table {
+  border-collapse: collapse;
+  width: 100%;
+  margin: 2rem 0;
+}
+.sl-markdown th, .sl-markdown td {
+  border: 1px solid var(--sl-color-border);
+  padding: .6rem .8rem;
+  text-align: left;
+}
+.sl-markdown thead th {
+  background: rgba(153, 0, 0, .08);
+}
+
+/* 链接 */
+a, .sl-markdown a, .sl-sidebar a {
+  color: var(--sl-color-link);
+  border-bottom: 1px dashed var(--sl-color-link);
+  text-decoration: none;
+  transition: color .18s, border-bottom-color .18s;
+}
+a:hover, .sl-markdown a:hover, .sl-sidebar a:hover {
+  color: var(--sl-color-link-hover);
+  border-bottom-color: var(--sl-color-link-hover);
+}
+
+/* 引文/强调 */
+.sl-markdown blockquote {
+  border-left: 4px solid var(--sl-color-border);
+  background: rgba(224, 220, 210, .32);
+  padding: 1rem 1.25rem;
+  margin-inline: 0;
+  font-style: italic;
+}
+
+/* 让页面整体更松弛些 */
+.sl-markdown {
+  padding-block: 2rem;
+  margin-inline: auto;
+  max-width: var(--sl-content-width);
+}
+
+body {
+  max-width: none;
+  margin: 0;
+  background: var(--sl-color-background);
 }
