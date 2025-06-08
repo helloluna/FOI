@@ -1,0 +1,120 @@
+/* src/styles/starlight.css */
+
+/* 1. 全局变量：颜色+字体+间距 */
+:root {
+  --sl-color-text: #28241c;
+  --sl-color-background: #fcf9f2;
+  --sl-color-brand: #990000;
+  --sl-color-link: var(--sl-color-brand);
+  --sl-color-link-hover: #7c0000;
+  --sl-color-border: #e0dcd2;
+  --sl-font-body: "Palatino Linotype", "Times New Roman", serif;
+  --sl-font-heading: "Palatino Linotype", serif;
+  --sl-content-width: 45rem;
+  --sl-line-height: 1.85;
+  --sl-space-block: 2.2rem;
+}
+
+/* 2. 主体区域字体与背景 */
+body {
+  background: var(--sl-color-background);
+  color: var(--sl-color-text);
+  font-family: var(--sl-font-body);
+  line-height: var(--sl-line-height);
+  letter-spacing: 0.05em;
+}
+
+/* 3. 标题 */
+h1, h2, h3, h4 {
+  font-family: var(--sl-font-heading);
+  color: var(--sl-color-brand);
+  font-weight: normal;
+  margin-top: var(--sl-space-block);
+  margin-bottom: 1rem;
+}
+h1 { font-size: 2.4rem; }
+h2 { font-size: 1.7rem; }
+h3 { font-size: 1.28rem; }
+
+/* 4. 段落与区块呼吸感 */
+p, ul, ol, table, blockquote, .sl-markdown > * {
+  margin-bottom: 1.35em;
+  margin-top: 0.2em;
+}
+section, .sl-markdown > * + * {
+  margin-top: var(--sl-space-block);
+}
+
+/* 5. 链接 */
+a {
+  color: var(--sl-color-link);
+  border-bottom: 1px dotted var(--sl-color-link);
+  text-decoration: none;
+  transition: color 0.15s;
+}
+a:hover {
+  color: var(--sl-color-link-hover);
+  border-bottom-color: var(--sl-color-link-hover);
+}
+
+/* 6. 引用 */
+blockquote {
+  border-left: 4px solid var(--sl-color-border);
+  background: rgba(224, 220, 210, 0.3);
+  padding: 1.15rem 1.6rem;
+  font-style: italic;
+  margin: var(--sl-space-block) 0;
+}
+
+/* 7. 表格 */
+table {
+  border-collapse: collapse;
+  width: 100%;
+  margin: var(--sl-space-block) 0;
+}
+th, td {
+  border: 1px solid var(--sl-color-border);
+  padding: 0.7rem 1rem;
+  text-align: left;
+}
+thead th {
+  background: rgba(153,0,0,0.08);
+}
+
+/* 8. Sidebar */
+nav, .sl-sidebar {
+  font-family: var(--sl-font-body);
+}
+.sl-sidebar ul {
+  border: none !important;
+}
+.sl-sidebar li {
+  border-bottom: 1px dotted #e4dad2 !important;
+}
+.sl-sidebar li:last-child {
+  border-bottom: none !important;
+}
+.sl-sidebar a {
+  font-family: var(--sl-font-body);
+  color: var(--sl-color-brand);
+  border: none;
+  background: none;
+}
+.sl-sidebar a.active,
+.sl-sidebar .active > a {
+  background: #fae6e6 !important;
+  color: var(--sl-color-brand) !important;
+  font-weight: bold;
+}
+
+/* 9. 搜索输入框/辅助按钮 */
+input, button {
+  font-family: var(--sl-font-body);
+}
+
+/* 10. 手机适配 */
+@media (max-width: 700px) {
+  body {
+    padding: 1.1rem 0.5rem;
+  }
+}
