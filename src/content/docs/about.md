@@ -29,14 +29,6 @@ Its focus is narrow and deliberate:
 **farmed animals confined in industrial systems, whose suffering is designed to disappear.**  
 Not by accident, but by *structure*.
 
-Pigs. Hens. Those rendered into numbers, categories, protocols, or nothing at all.  
-Not because they don't matter—but because we designed a system where they can’t.
-
-
-
-
-
-
 > *Pigs. Hens. Those rendered into numbers, categories, protocols, or nothing at all.*
 
 Not because they don’t matter —  
