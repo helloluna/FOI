@@ -30,7 +30,7 @@ It now serves as a public record, memory structure, and structural critique — 
 ## 🗂 FOI Summary
 
 - **Submitted:** 5 April 2025  
-- **Finalised:** 6 June 2025  
+- **Finalised:** 30 May 2025  
 - **FOI ID:** 52549500734  
 - **Result:**  
   - 1 created document (Facility Inspection Summary)  
