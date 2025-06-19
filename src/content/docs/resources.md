@@ -49,6 +49,29 @@ Together, they testify to the architecture of silence that surrounds farmed anim
 
 ---
 
+## 📨 Correspondence & Official Responses  
+> *What was answered, and what was left to silence.*
+
+- [Jess Beckerling, MLC – Reply from Environment and Public Affairs Committee (14 Jun 2025)](/resources/Jess-reply.pdf)  
+  *Committee will consider your correspondence at their next meeting.*
+
+- [Jemma Christensen, Clerk – Reply from Public Administration Committee (14 Jun 2025)](/resources/pac-reply.pdf)  
+  *Your submission will be presented to the Committee for consideration.*
+
+- [Minister Jarvis – Official Reply (19 Jun 2025)](/resources/Jarvis1.pdf)  
+  *Formal response from the Minister for Agriculture’s office.*
+
+- [DPIRD – Internal Review Acknowledgement (16 Jun 2025)](/resources/Internal-Review-Acknowledgement-Letter.pdf)  
+  *Confirmation that internal review request was received and process commenced.*
+
+- [DPIRD – Internal Review Acknowledgement (duplicate format)](/resources/Internal-Review-Acknowledgement.pdf)  
+  *Alternate format of above.*
+
+- [OIC – External Review Rejection (14 Jun 2025)](/resources/oic-rejection.pdf)  
+  *OIC requires completion of internal review before proceeding.*
+
+---
+
 ## 📚 Legislative Reviews & Public Submissions  
 > *Where transparency was proposed — and postponed.*
 
@@ -64,13 +87,14 @@ Together, they testify to the architecture of silence that surrounds farmed anim
   “Accepted in principle.”  
   **Implementation has not been evidenced.**
 
+- [Stakeholder Submissions – 2019](/resources/awa_review_panel_stakeholder_submissions.pdf)  
+  Advocacy groups called for change.  
+  **The will was present — the system did not move.**
+
 - [Stakeholder Forums Summary – 2020](/resources/awa_review_panel_stakeholder_forums.pdf)  
   Highlights limited focus on DI transparency.  
   **Discussion present, structural commitment missing.**
 
-- [Stakeholder Submissions – 2019](/resources/awa_review_panel_stakeholder_submissions.pdf)  
-  Advocacy groups called for change.  
-  **The will was present — the system did not move.**
 
 ---
 
@@ -129,3 +153,9 @@ Together, they testify to the architecture of silence that surrounds farmed anim
 > **To remember what was denied is also a form of witness.**  
 > This archive will continue to grow — in presence, in absence, and in demand for coherence.  
 > Because if no record exists, then refusal must be what remains.
+
+---
+
+> **All documents and correspondence archived here relate to official, public business.  
+> Personal contact details (such as private phone numbers or non-official emails) have been redacted where applicable.  
+> Citation or reuse of these materials should acknowledge this archive as the source and respect the context of their publication.**
