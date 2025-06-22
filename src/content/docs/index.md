@@ -11,8 +11,9 @@ description: Overview of WA's animal welfare FOI timeline and structural gaps.
 An independent documentation effort to expose the systemic invisibility of farmed animals in Western Australia — and the institutions that obscure it.
 
 This archive began with a single Freedom of Information request.
-
 It now serves as a public record, memory structure, and structural critique — focused on the legal invisibility surrounding Designated Inspectors (DIs), the only state-authorised individuals allowed to enter industrial farming facilities.
+
+It archives not only what was revealed, but also what the system was asked, ignored, or structurally refused.
 
 --- 
 > **This project is not just about transparency.  
@@ -36,10 +37,17 @@ It now serves as a public record, memory structure, and structural critique — 
   - 1 created document (Facility Inspection Summary)  
   - Formal Section 26 refusal for outcome data and internal audits
 
+- **Next Step:**  
+  - Internal Review process commenced (June 2025) after OIC required exhaustion of agency review.  
+  - Awaiting outcome from DPIRD.
+
 📎 Key Files:
 - [FOI Response – 1 May 2025](/resources/foi_response_dpird_1may2025.pdf)  
 - [Notice of Decision – 30 May 2025](/resources/notice_of_decision.pdf)  
-- [Document 1 – Facility Inspection Summary](/resources/foi_document_1_summary.pdf)
+- [Document 1 – Facility Inspection Summary](/resources/foi_document_1_summary.pdf)  
+- [Internal Review Acknowledgement – 12 June 2025](/resources/Internal-Review-Acknowledgement-Letter.pdf)
+
+*Each FOI cycle here is a public test of institutional transparency: every request, every silence, every detour becomes part of the structural record.*
 
 ---
 
