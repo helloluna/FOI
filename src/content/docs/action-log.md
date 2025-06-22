@@ -31,9 +31,9 @@ A formal trace of institutional silence.*
 | 21 May 2025 | Extension to 6 June accepted                             | [Due Date Extension](/resources/FOI2025-008-Request-for-due-date-extension.pdf) |
 | 30 May 2025 | Notice of Decision issued — confirms absence             | [Notice of Decision](/resources/notice_of_decision.pdf) |
 | 30 May 2025  | Response cycle concluded and archived                    | [Inspection Summary](/resources/foi_document_1_summary.pdf) |
-| 7 Jun 2025  | External review request lodged with OIC                  | [OIC Rejection Notice](/resources/oic_rejection.pdf) |
-| 13 Jun 2025 | Internal review requested from DPIRD                     | [Internal Review Request Email](/resources/internal_review_request.pdf) |
-| 18 Jun 2025 | DPIRD acknowledges internal review process initiated     | [Internal Review Acknowledgement](/resources/internal_review_acknowledgement.pdf) |
+| 7 Jun 2025  | External review request lodged with OIC                  | [OIC Rejection Notice](/resources/oic-rejection.pdf) |
+| 13 Jun 2025 | Internal review requested from DPIRD                     | [Internal Review Request Email](/resources/Internal-Review-Acknowledgement.pdf) |
+| 18 Jun 2025 | DPIRD acknowledges internal review process initiated     | [Internal Review Acknowledgement](/resources/Internal-Review-Acknowledgement-Letter.pdf) |
 
 > **📝 Summary:**  
 > • No internal audits, enforcement outcomes, or DI-related data was found to exist.  
