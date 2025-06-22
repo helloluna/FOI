@@ -23,40 +23,68 @@ A formal trace of institutional silence.*
 
 ### 📅 Timeline of Requests and Responses
 
-| Date       | Event                                              | Linked Document |
-|------------|----------------------------------------------------|------------------|
-| 5 Apr 2025 | FOI lodged to DPIRD (ID 52549500734)               | [FOI Request](/resources/dpird_foi_application.pdf) |
-| 1 May 2025 | DPIRD states no inspection outcomes exist          | [FOI Response](/resources/foi_response_dpird_1may2025.pdf) |
-| 8 May 2025 | Section 26 refusal requested + public statement    | [Section 26 Statement](/resources/foi_request_section_26_statement.pdf) |
-| 21 May 2025 | Extension to 6 June accepted                     | [Due Date Extension](/resources/FOI2025-008-Request-for-due-date-extension.pdf) |
-| 30 May 2025 | Notice of Decision issued — confirms absence     | [Notice of Decision](/resources/notice_of_decision.pdf) |
-| 6 Jun 2025 | Response cycle concluded and archived             | [Inspection Summary](/resources/foi_document_1_summary.pdf) |
+| Date        | Event                                                    | Linked Document |
+|-------------|----------------------------------------------------------|------------------|
+| 5 Apr 2025  | FOI lodged to DPIRD (ID 52549500734)                     | [FOI Request](/resources/dpird_foi_application.pdf) |
+| 1 May 2025  | DPIRD states no inspection outcomes exist                | [FOI Response](/resources/foi_response_dpird_1may2025.pdf) |
+| 8 May 2025  | Section 26 refusal requested + public statement          | [Section 26 Statement](/resources/foi_request_section_26_statement.pdf) |
+| 21 May 2025 | Extension to 6 June accepted                             | [Due Date Extension](/resources/FOI2025-008-Request-for-due-date-extension.pdf) |
+| 30 May 2025 | Notice of Decision issued — confirms absence             | [Notice of Decision](/resources/notice_of_decision.pdf) |
+| 30 May 2025  | Response cycle concluded and archived                    | [Inspection Summary](/resources/foi_document_1_summary.pdf) |
+| 7 Jun 2025  | External review request lodged with OIC                  | [OIC Rejection Notice](/resources/oic_rejection.pdf) |
+| 13 Jun 2025 | Internal review requested from DPIRD                     | [Internal Review Request Email](/resources/internal_review_request.pdf) |
+| 18 Jun 2025 | DPIRD acknowledges internal review process initiated     | [Internal Review Acknowledgement](/resources/internal_review_acknowledgement.pdf) |
 
 > **📝 Summary:**  
 > • No internal audits, enforcement outcomes, or DI-related data was found to exist.  
 > • One document was created post-request: a generic checklist with no substantive findings.  
-> • Systemic silence was **formally acknowledged** through a Section 26 refusal.
----
+> • Systemic silence was **formally acknowledged** through a Section 26 refusal.  
+> • OIC rejected early external review request — insisted internal process be exhausted.  
+> • Internal review has now commenced.
 
+---
 ## ✉️ Institutional Contact Log
 
-### Letters Delivered
-- WA Minister for Agriculture & Food (Jarvis)  
-- Animal Welfare Advisory Committee (AWAC)  
-- Greens WA, AJP, RSPCA WA, Animals Australia
+> *All correspondence is public interest-driven, with recipients grouped by their institutional oversight or advocacy function.*
 
-### Media Contacted
+### 1. Government Oversight & Accountability  
+- WA FOI Commissioner (OIC)  
+- WA Ombudsman  
+- Public Administration Committee Secretariat  
+- Office of the Minister for Agriculture & Food  
+- Animal Welfare Advisory Committee (AWAC)
+
+### 2. Animal Welfare & Advocacy Organisations  
+- Animal Justice Party (AJP WA)  
+- Animals Australia  
+- RSPCA WA  
+- Anonymous for the Voiceless (Perth)  
+- Sentient
+
+### 3. Media & Public Scrutiny  
 - ABC News  
 - WA Today  
 - The West Australian  
-- The Guardian Australia
+- The Guardian Australia  
+- Crikey  
+- Farm Transparency Project (FTP)  
+- The Conversation
 
-### Oversight Bodies CC'd
-- WA FOI Commissioner  
-- WA Ombudsman  
+### 4. Political/Parliamentary Recipients  
+- WA Greens (incl. Jess Beckerling MLC)  
+- WA Labor (key committee members)  
+- Legislative Council Members (Standing Committees)  
+- Select Committee on Animal Welfare
 
-These letters do not ask for sympathy — they ask for **institutional record and response**.
+---
 
+### 📥 Responses Received (as of June 2025)
+- [Jess Beckerling (Greens WA)](/resources/jess-reply.pdf)  
+- [Public Administration Committee Secretariat](/resources/pac-reply.pdf)
+
+---
+
+> *This log is structured to track not only the direct outcome of each FOI cycle, but also the ecosystem of accountability and silence across public institutions, advocacy, media, and parliament.*
 ---
 
 > *This archive is not static.  
