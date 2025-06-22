@@ -47,28 +47,13 @@ Together, they testify to the architecture of silence that surrounds farmed anim
   Visual map of policy claims vs. documentation silence (2002–2025).  
   **When the promise of oversight meets the practice of omission.**
 
----
+- [FOI Internal Review Acknowledgement – 19 June 2025](/resources/internal-review-acknowledgement.pdf)  
+  Confirms DPIRD has accepted internal review process following OIC referral.  
+  **Systemic absence now under internal scrutiny.**
 
-## 📨 Correspondence & Official Responses  
-> *What was answered, and what was left to silence.*
-
-- [Jess Beckerling, MLC – Reply from Environment and Public Affairs Committee (14 Jun 2025)](/resources/Jess-reply.pdf)  
-  *Committee will consider your correspondence at their next meeting.*
-
-- [Jemma Christensen, Clerk – Reply from Public Administration Committee (14 Jun 2025)](/resources/pac-reply.pdf)  
-  *Your submission will be presented to the Committee for consideration.*
-
-- [Minister Jarvis – Official Reply (19 Jun 2025)](/resources/Jarvis1.pdf)  
-  *Formal response from the Minister for Agriculture’s office.*
-
-- [DPIRD – Internal Review Acknowledgement (16 Jun 2025)](/resources/Internal-Review-Acknowledgement-Letter.pdf)  
-  *Confirmation that internal review request was received and process commenced.*
-
-- [DPIRD – Internal Review Acknowledgement (duplicate format)](/resources/Internal-Review-Acknowledgement.pdf)  
-  *Alternate format of above.*
-
-- [OIC – External Review Rejection (14 Jun 2025)](/resources/oic-rejection.pdf)  
-  *OIC requires completion of internal review before proceeding.*
+- [OIC Rejection of External Review – 12 June 2025](/resources/oic-rejection.pdf)  
+  FOI Commissioner declines to proceed until internal review is completed.  
+  **Oversight deferred to originating agency.**
 
 ---
 
@@ -96,6 +81,7 @@ Together, they testify to the architecture of silence that surrounds farmed anim
   **Discussion present, structural commitment missing.**
 
 
+
 ---
 
 ## 🏛️ Governance Structures & Omissions  
@@ -120,6 +106,24 @@ Together, they testify to the architecture of silence that surrounds farmed anim
 - [AWAC Terms of Reference](/resources/terms_of_reference_awac.pdf)  
   Defines oversight role.  
   **No public outputs since reinstatement.**
+
+---
+
+## 📨 Political & Committee Responses  
+> *The only institutional voices that responded.*
+
+- [Minister Jarvis Reply – Empty Acknowledgement](/resources/jarvis-empty-reply.pdf)  
+  States matter has been referred to DPIRD.  
+  **No substantive response or policy comment.**
+
+- [Public Administration Committee Reply – 11 June 2025](/resources/pac-reply.pdf)  
+  Confirms receipt and classification of submission.  
+  **No review decision yet communicated.**
+
+- [Jess Beckerling (Greens WA) – Personal Reply](/resources/jess-reply.pdf)  
+  Expresses support and notes systemic transparency failures.  
+  **Rare moment of political acknowledgment.**
+
 
 ---
 
