@@ -55,6 +55,10 @@ Together, they testify to the architecture of silence that surrounds farmed anim
   FOI Commissioner declines to proceed until internal review is completed.  
   **Oversight deferred to originating agency.**
 
+- [DPIRD Internal Review Acknowledgement – 12 June 2025](/resources/Internal-Review-Acknowledgement.pdf)  
+  DPIRD’s formal confirmation of the internal review process, as required by the OIC before further external oversight.  
+  **A structural pause before accountability can proceed.**
+
 ---
 
 ## 📚 Legislative Reviews & Public Submissions  
@@ -112,7 +116,7 @@ Together, they testify to the architecture of silence that surrounds farmed anim
 ## 📨 Political & Committee Responses  
 > *The only institutional voices that responded.*
 
-- [Minister Jarvis Reply – Empty Acknowledgement](/resources/jarvis-empty-reply.pdf)  
+- [Minister Jarvis Reply – Empty Acknowledgement](/resources/JarvisEmptyReply.pdf)  
   States matter has been referred to DPIRD.  
   **No substantive response or policy comment.**
 
