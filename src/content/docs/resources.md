@@ -47,18 +47,17 @@ Together, they testify to the architecture of silence that surrounds farmed anim
   Visual map of policy claims vs. documentation silence (2002–2025).  
   **When the promise of oversight meets the practice of omission.**
 
-- [FOI Internal Review Acknowledgement – 19 June 2025](/resources/internal-review-acknowledgement.pdf)  
-  Confirms DPIRD has accepted internal review process following OIC referral.  
-  **Systemic absence now under internal scrutiny.**
-
 - [OIC Rejection of External Review – 12 June 2025](/resources/oic-rejection.pdf)  
   FOI Commissioner declines to proceed until internal review is completed.  
   **Oversight deferred to originating agency.**
 
-- [DPIRD Internal Review Acknowledgement – 12 June 2025](/resources/Internal-Review-Acknowledgement.pdf)  
+- [DPIRD Internal Review Acknowledgement – 12 June 2025](/resources/Internal-Review-Acknowledgement-Letter.pdf)  
   DPIRD’s formal confirmation of the internal review process, as required by the OIC before further external oversight.  
   **A structural pause before accountability can proceed.**
 
+- [FOI Internal Review Acknowledgement – 19 June 2025](/resources/internal-review-acknowledgement.pdf)  
+  Confirms DPIRD has accepted internal review process following OIC referral.  
+  **Systemic absence now under internal scrutiny.**
 ---
 
 ## 📚 Legislative Reviews & Public Submissions  
