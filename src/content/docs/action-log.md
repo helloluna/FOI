@@ -50,7 +50,9 @@ A formal trace of institutional silence.*
 ### 1. Government Oversight & Accountability  
 - WA FOI Commissioner (OIC)  
 - WA Ombudsman  
+- Office of the Auditor General (OAG)
 - Public Administration Committee Secretariat  
+- Environment and Public Affairs Committee Secretariat
 - Office of the Minister for Agriculture & Food  
 - Animal Welfare Advisory Committee (AWAC)
 
@@ -60,12 +62,18 @@ A formal trace of institutional silence.*
 - RSPCA WA  
 - Anonymous for the Voiceless (Perth)  
 - Sentient
+- Animal Liberation
+- Australian Alliance for Animals
+- Voiceless
 
 ### 3. Media & Public Scrutiny  
 - ABC News  
 - WA Today  
 - The West Australian  
 - The Guardian Australia  
+- SBS Australia  
+- 9News
+- PerthNow
 - Crikey  
 - Farm Transparency Project (FTP)  
 - The Conversation
@@ -81,8 +89,6 @@ A formal trace of institutional silence.*
 ### 📥 Responses Received (as of June 2025)
 - [Jess Beckerling (Greens WA)](/resources/jess-reply.pdf)  
 - [Public Administration Committee Secretariat](/resources/pac-reply.pdf)
-
----
 
 > *This log is structured to track not only the direct outcome of each FOI cycle, but also the ecosystem of accountability and silence across public institutions, advocacy, media, and parliament.*
 ---
