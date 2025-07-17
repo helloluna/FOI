@@ -5,7 +5,7 @@ description: Timeline of FOI cycles, institutional nonresponse, and memory trace
 
 # Action Log – WA Animal Welfare Transparency  
 **Maintained by Hanyu Liu**  
-_Last updated: June 2025_
+_Last updated: July 2025_
 
 This is a structural record — not of what was achieved,  
 but of what was attempted, requested, refused, and left undocumented.
