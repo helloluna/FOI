@@ -19,45 +19,76 @@ Together, they testify to the architecture of silence that surrounds farmed anim
 ## 🧾 FOI Traces & Institutional Silences  
 > *Documents that exist only because absence was forced to speak.*
 
-- [DPIRD FOI Application](/resources/dpird_foi_application.pdf)  
-  Formal request for inspection outcomes, audit records, and DI activities (2022–2025).  
-  **What the system was asked — and tried to avoid answering.**
+### FOI 1 – Designated Inspector Records
+
+- [FOI Application to DPIRD](/resources/dpird_foi_application.pdf)  
+  Formal request for all DI inspections, outcomes, and audit records (2022–2025).  
+  **What the system was asked — and what it refused.**
 
 - [FOI Response – 1 May 2025](/resources/foi_response_dpird_1may2025.pdf)  
-  States no such documents exist.  
-  **Systemic silence, officially acknowledged.**
+  States no records of DI outcomes or enforcement exist.  
+  **Institutional silence, officially documented.**
 
 - [Section 26 Statement](/resources/foi_request_section_26_statement.pdf)  
-  Accompanies the refusal request.  
-  **Outlines the legal structure of denial.**
+  Legal rationale for refusal.  
+  **How the law codifies denial.**
 
 - [Due Date Extension Request](/resources/FOI2025-008-Request-for-due-date-extension.pdf)  
-  Records time negotiation during FOI cycle.  
-  **Shows how delay is built into disclosure.**
+  Records negotiation over statutory response deadlines.  
+  **Delay as part of the FOI process.**
 
 - [Notice of Decision – 30 May 2025](/resources/notice_of_decision.pdf)  
-  Formal confirmation that no DI records exist.  
-  **Refusal formalised through administrative process.**
+  Formal refusal citing absence of records.  
+  **Silence becomes administrative fact.**
 
-- [Document 1 – Facility Inspection Summary](/resources/foi_document_1_summary.pdf)  
-  A blank checklist created post-request.  
-  **Presence without substance.**
+- [Facility Inspection Summary (Document 1)](/resources/foi_document_1_summary.pdf)  
+  A template checklist created post-request — no substantive data.  
+  **“Presence” that reveals only absence.**
 
-- [DI Transparency Timeline (PNG)](/resources/di_transparency_timeline_table.png)  
-  Visual map of policy claims vs. documentation silence (2002–2025).  
-  **When the promise of oversight meets the practice of omission.**
-
-- [OIC Rejection of External Review – 12 June 2025](/resources/oic-rejection.pdf)  
-  FOI Commissioner declines to proceed until internal review is completed.  
-  **Oversight deferred to originating agency.**
+- [OIC Rejection – 12 June 2025](/resources/oic-rejection.pdf)  
+  OIC declines external review; mandates full internal review first.  
+  **Oversight delayed by process.**
 
 - [DPIRD Internal Review Acknowledgement – 12 June 2025](/resources/Internal-Review-Acknowledgement-Letter.pdf)  
-  DPIRD’s formal confirmation of the internal review process, as required by the OIC before further external oversight.  
-  **A structural pause before accountability can proceed.**
+  DPIRD confirms initiation of internal review.  
+  **A pause for internal assessment before escalation.**
 
-- [FOI Internal Review Acknowledgement – 19 June 2025](/resources/internal-review-acknowledgement.pdf)  
-  Confirms DPIRD has accepted internal review process following OIC referral.  
-  **Systemic absence now under internal scrutiny.**
+- [Internal Review Extension Request – 30 June 2025](/resources/FOI2025-008-IR-extension-of-time-request.pdf)  
+  DPIRD requests more time for internal review.  
+  **Further delay built into disclosure.**
+
+- [Internal Review Decision – 8 July 2025](/resources/FOI2025-008-IR-Notice-of-Decision.pdf)  
+  IR admits some inspection outcome reports exist, but continues to refuse access.  
+  **Contradiction between process and reality.**
+
+---
+
+### OIC External Review (ER)
+
+- [OIC External Review Submission – 10 July 2025](/resources/ER-application-email-FOI2025-008(DPIRD).pdf)  
+  Formal complaint to OIC outlining DPIRD’s procedural contradictions.  
+  **Pushing silence into the open record.**
+
+- [OIC ER Acceptance Letter – 17 July 2025](/resources/foi1-er-acknowledge-letter.pdf)  
+  OIC formally accepts the complaint; process ongoing.  
+  **Independent scrutiny initiated.**
+
+---
+
+### FOI 2 – Oversight & Systemic Risk
+
+- [FOI2 Submission Email – 10 July 2025](/resources/FOI2-email.pdf)  
+  New FOI request targeting oversight, risk evaluation, and operational SOPs.  
+  **Expanding the frame of accountability.**
+
+- [FOI2 Application Form](/resources/Foi2.pdf)  
+  Full text of new targeted request.  
+  **Testing the limits of what “exists” institutionally.**
+
+- [FOI2 Acknowledgement Letter](/resources/foi2-Acknowledgement-Letter.pdf)  
+  DPIRD’s confirmation of FOI2 receipt.  
+  **Cycle restarts: from refusal to possible new silence.**
+
 ---
 
 ## 📚 Legislative Reviews & Public Submissions  
@@ -82,8 +113,6 @@ Together, they testify to the architecture of silence that surrounds farmed anim
 - [Stakeholder Forums Summary – 2020](/resources/awa_review_panel_stakeholder_forums.pdf)  
   Highlights limited focus on DI transparency.  
   **Discussion present, structural commitment missing.**
-
-
 
 ---
 
@@ -110,23 +139,30 @@ Together, they testify to the architecture of silence that surrounds farmed anim
   Defines oversight role.  
   **No public outputs since reinstatement.**
 
+- [DI Transparency Timeline (PNG)](/resources/di_transparency_timeline_table.png)  
+  Policy–reality gap in animal welfare oversight, visualized.  
+  **The shape of an official void.**
+
 ---
 
 ## 📨 Political & Committee Responses  
 > *The only institutional voices that responded.*
 
-- [Minister Jarvis Reply – Empty Acknowledgement](/resources/JarvisEmptyReply.pdf)  
-  States matter has been referred to DPIRD.  
-  **No substantive response or policy comment.**
+- [Minister Jarvis Office – Referral Only](/resources/JarvisEmptyReply.pdf)  
+  States the matter has been referred to DPIRD for response.  
+  **No policy position, no ministerial accountability.**
 
-- [Public Administration Committee Reply – 11 June 2025](/resources/pac-reply.pdf)  
-  Confirms receipt and classification of submission.  
-  **No review decision yet communicated.**
+- [Public Administration Committee – 11 June 2025](/resources/pac-reply.pdf)  
+  Confirms receipt of submission and internal classification.  
+  **No further review outcome communicated to date.**
 
-- [Jess Beckerling (Greens WA) – Personal Reply](/resources/jess-reply.pdf)  
-  Expresses support and notes systemic transparency failures.  
-  **Rare moment of political acknowledgment.**
+- [Jess Beckerling (Greens WA) – Personal Reply](/resources/Jess-reply.pdf)  
+  Acknowledges the issue and expresses concern over transparency failures.  
+  **One of few responses with moral clarity.**
 
+- [MP Sandra Carr Office – FOI Acknowledgement – 4 July 2025](/resources/Sandra-reply.pdf)  
+  Staff member confirms FOI concern has been noted.  
+  **Recorded but not acted upon.**
 
 ---
 

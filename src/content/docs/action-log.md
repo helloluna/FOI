@@ -50,8 +50,7 @@ A formal trace of institutional silence.*
 
 | Date        | Event                                                     | Linked Document |
 |-------------|-----------------------------------------------------------|------------------|
-| 10 Jul 2025 | Formal complaint to OIC lodged under s.65                 | [ER Submission](/resources/External-Review–FOI2025-008-DPIRD.pdf) |
-| 10 Jul 2025 | OIC acknowledges receipt of external review application   | [OIC ER Acknowledgement](/resources/foi1-er-acknowledge-letter.pdf) |
+| 10 Jul 2025 | Formal complaint to OIC lodged under s.65                 | [ER Submission](/resources/ER-application-email-FOI2025-008(DPIRD).pdf) |
 | 17 Jul 2025 | OIC formally accepts complaint, begins process            | [OIC ER Acceptance Letter](/resources/foi1-er-acknowledge-letter.pdf) |
 
 > **📝 External Review Summary:**  
@@ -78,13 +77,6 @@ A formal trace of institutional silence.*
 >  3. Is there any valid policy or SOP guiding DI practices?  
 > • All questions are designed as structural traps — either yield documents, or admit institutional voids.  
 > • Refusal will trigger further escalation under grounds of public interest and procedural risk.
-
----
-
-> *Two requests.  
-Two refusals.  
-One system — seen through its silence.*
-
 ---
 ## ✉️ Institutional Contact Log
 
@@ -141,16 +133,8 @@ One system — seen through its silence.*
 Each new request is a test of what the system refuses to hold.*
 
 ## 🧭 Forthcoming Cycles
-
-- **FOI Round 2:**  
-  Internal AWAC discussions, DI appointment criteria, and training records
-
-- **Systemic Complaint Submission:**  
-  WA Ombudsman – failure to ensure lawful enforcement oversight under the Animal Welfare Act
-
 - **Archive Expansion:**  
   Visual policy timelines, legislative silence mapping, and comparative trace analysis
-
 ---
 
 > This is not against institutions.  

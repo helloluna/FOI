@@ -21,33 +21,43 @@ It archives not only what was revealed, but also what the system was asked, igno
 
 ---
 
-## 🔍 Site Sections
-- 🔍 [FOI Action Log](/action-log)
-- 📂 [All Documents & Resources](/resources)
-- 📖 [About This Project](/about)
-
----
-
 ## 🗂 FOI Summary
 
-- **Submitted:** 5 April 2025  
-- **Finalised:** 30 May 2025  
-- **FOI ID:** 52549500734  
-- **Result:**  
-  - 1 created document (Facility Inspection Summary)  
-  - Formal Section 26 refusal for outcome data and internal audits
+### FOI 1 – Designated Inspector Records (DPIRD)
 
-- **Next Step:**  
-  - Internal Review process commenced (June 2025) after OIC required exhaustion of agency review.  
-  - Awaiting outcome from DPIRD.
+- **Submitted:** 5 April 2025  
+- **Finalised (Initial Decision):** 30 May 2025  
+- **FOI ID:** 52549500734  
+- **Outcome:**  
+  - Section 26 refusal: no DI inspection outcomes, audits, or internal reviews found.  
+  - 1 document created post-request: generic checklist template.
+
+- **Review Stage:**  
+  - Internal Review requested: 13 June 2025  
+  - IR Decision (8 July): DPIRD contradicts itself, confirms some reports exist but still refuses access.  
+  - External Review submitted to OIC: 10 July 2025  
+  - OIC accepted complaint under s.65: 17 July 2025 – review ongoing.
+
+### FOI 2 – Oversight & Risk Records (DPIRD)
+
+- **Submitted:** 9 July 2025  
+- **Focus:**  
+  1. AWAC meeting records on DI supervision  
+  2. DPIRD internal risk assessments  
+  3. Current SOPs or policy documents for DI oversight  
+- **Status:** Acknowledged by agency – pending response or fee estimate.
 
 📎 Key Files:
 - [FOI Response – 1 May 2025](/resources/foi_response_dpird_1may2025.pdf)  
 - [Notice of Decision – 30 May 2025](/resources/notice_of_decision.pdf)  
-- [Document 1 – Facility Inspection Summary](/resources/foi_document_1_summary.pdf)  
-- [Internal Review Acknowledgement – 12 June 2025](/resources/Internal-Review-Acknowledgement-Letter.pdf)
+- [Document 1 – Facility Inspection Summary](/resources/foi_document_1_summary.pdf) 
+- [FOI1 IR Decision – 8 July](/resources/FOI2025-008-IR-Notice-of-Decision.pdf)  
+- [OIC ER Acceptance Letter – 17 July](/resources/foi1-er-acknowledge-letter.pdf)  
+- [FOI2 Submission – 9 July](/resources/Foi2.pdf)  
+- [FOI2 Acknowledgement Letter](/resources/foi2-Acknowledgement-Letter.pdf)
 
-*Each FOI cycle here is a public test of institutional transparency: every request, every silence, every detour becomes part of the structural record.*
+*Each FOI becomes part of a growing structure:  
+a documented architecture of refusal, contradiction, and public memory.*
 
 ---
 
