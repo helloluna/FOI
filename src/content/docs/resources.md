@@ -92,10 +92,6 @@ Together, they testify to the architecture of silence that surrounds farmed anim
   DPIRD requests additional time; new deadline set to 8 Sep.  
   **Delay again built into the process.**
 
-- [FOI2 Result Email – 8 September 2025](/resources/foi2_result_email.pdf)  
-  Cover email for the Notice of Decision.  
-  **Outcome framed — silence reaffirmed.**
-
 - [FOI2 Notice of Decision – 8 September 2025](/resources/foi2_result.pdf)  
   Refuses access under Section 26; claims no oversight, risk, or SOP records exist.  
   **Governance structures revealed only through their claimed absence.**
