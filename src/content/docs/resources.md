@@ -107,8 +107,22 @@ Together, they testify to the architecture of silence that surrounds farmed anim
 - [IR2 Acknowledgement Letter – 10 September 2025](/resources/ir2_acknowledge_letter.pdf)  
   DPIRD acknowledges IR2; decision due by 25 Sep.  
   **Delay continues; scrutiny deferred.**
+  
 ---
 
+### FOI 3 – Institutional Communication Patterns  
+> *Tracing the afterimages of accountability — where visibility ought to reside.*
+
+- [FOI3 Application Form – 22 August 2025](/resources/foi3.pdf)  
+  Targets ministerial briefings, integrity agency engagement, and internal DI risk assessments.  
+  **What ministers were told — or never told — about DI performance.**
+
+- [FOI3 Acknowledgement Letter – 25 August 2025](/resources/foi3_Acknowledge_letter.pdf)  
+  Confirms scope and validates request.  
+  **New questions, new silences pending.**
+  
+---
+  
 ## 📚 Legislative Reviews & Public Submissions  
 > *Where transparency was proposed — and postponed.*
 
