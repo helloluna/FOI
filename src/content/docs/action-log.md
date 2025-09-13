@@ -37,12 +37,24 @@ A formal trace of institutional silence.*
 | 30 Jun 2025 | DPIRD requests 1-week extension for internal review      | [Extension Request](/resources/FOI2025-008-IR-extension-of-time-request.pdf) |
 | 8 Jul 2025  | Internal review decision issued — contradiction arises   | [IR Decision](/resources/FOI2025-008-IR-Notice-of-Decision.pdf) |
 
-> **📝 FOI1 Summary:**  
-> • DPIRD formally claimed that no inspection outcomes or enforcement records existed — confirming a structural data vacuum.  
-> • A single generic template was released with no substance.  
-> • Section 26 refusal became an official record of *non-existence*.  
-> • Internal review result (8 July) **contradicted original refusal**, admitting some reports do exist — yet access remains denied.  
-> • This contradiction forms the basis of the external review.  
+ ### 📝 FOI1 Summary
+> **What was asked:**  
+
+> FOI1 sought to establish whether any basic inspection or enforcement records exist regarding Designated Inspectors (DIs):  
+>  1. Have DIs conducted inspections from 2022–2025?  
+>  2. Are there any outcome summaries, incident reports, or enforcement actions?  
+>  3. Has DPIRD internally reviewed DI capacity, risk, or performance?
+
+> **What was revealed:**  
+> • On 1 May 2025, DPIRD issued a formal refusal under **Section 26** — asserting that **no documents** exist.  
+> • The only released file was a blank generic template with no substantive content.  
+> • This amounted to a structural confirmation of *total record absence* for DI enforcement.  
+> 
+> **What followed:**  
+> • On 8 July 2025, Internal Review contradicted the original refusal — admitting that **individual reports with inspection outcomes do exist**.  
+> • This internal contradiction became the basis for an External Review (OIC) lodged on 9 July 2025.  
+> • The review challenges procedural fairness, search adequacy, and transparency integrity.  
+> • OIC assessment is currently ongoing.
 
 ---
 
@@ -53,9 +65,23 @@ A formal trace of institutional silence.*
 | 10 Jul 2025 | Formal complaint to OIC lodged under s.65                 | [ER Submission](/resources/ER-application-email-FOI2025-008(DPIRD).pdf) |
 | 17 Jul 2025 | OIC formally accepts complaint, begins process            | [OIC ER Acceptance Letter](/resources/foi1-er-acknowledge-letter.pdf) |
 
-> **📝 External Review Summary:**  
-> • OIC confirmed acceptance of the case under FOI Act s.65.  
-> • The contradiction between initial and internal review decisions is now under formal scrutiny.  
+> ### 📝 OIC Review Summary (FOI1 External Review)
+> **What is under review:**  
+> The external review (OIC Ref: FOI2025-008) investigates DPIRD’s internal contradiction regarding the existence of inspection outcome records.  
+> It assesses:  
+>  1. Whether DPIRD failed to conduct a reasonable search under FOI Act obligations.  
+>  2. Whether the agency improperly withheld documents at the initial decision stage.  
+>  3. Whether transparency duties were breached through misleading or incomplete responses.
+> 
+> **Why this matters:**  
+> • The FOI process revealed **a documented contradiction** — DPIRD first claimed no records exist, then admitted some do.  
+> • This exposes systemic risks in the agency’s record-keeping and disclosure practices.  
+> • The case tests the limits of institutional silence, procedural fairness, and the role of external oversight in enforcing FOI integrity.
+> 
+> **Current status:**  
+> • Complaint was lodged with the WA Office of the Information Commissioner (OIC) on 9 July 2025.  
+> • Acknowledgement letter was issued by OIC.  
+> • Assessment and preliminary inquiries are in progress.  
 > • However, OIC emphasizes its *limited role* — it will investigate whether DPIRD made a reasonable effort to locate documents, **not** enforce release.
 
 ---
@@ -75,16 +101,26 @@ A formal trace of institutional silence.*
 | 10 Sep 2025 | IR2 acknowledged by DPIRD; due by 25 Sep                | [IR2 Acknowledgement](/resources/ir2_acknowledge_letter.pdf) |
 
 > **📝 FOI2 Summary:**  
+> **What was asked:**  
 > • FOI2 targets the **meta-structure** of regulatory silence:  
 >  1. Has AWAC ever discussed DI oversight?  
 >  2. Has DPIRD assessed the risk of having no enforcement records?  
 >  3. Is there any valid policy or SOP guiding DI practices?  
 > • All questions are designed as structural traps — either yield documents, or admit institutional voids. 
-> • Refusal will trigger further escalation under grounds of public interest and procedural risk.
+> 
+> **What was revealed:**  
+> • Refusal will trigger further escalation under grounds of public interest and procedural risk.  
+> • On 8 September 2025, DPIRD again invoked **Section 26** to deny access — asserting that **no records** exist relating to oversight, risk management, or DI policy.  
+> • This second formal claim of “non-existence” — after FOI1's contradiction — escalates the structural vacuum.  
+>
+> **What followed:**  
 > • On 8 September 2025, DPIRD again invoked **Section 26** to deny access — asserting that **no records** exist relating to oversight, risk management, or DI policy.  
 > • This second formal claim of “non-existence” — after FOI1's contradiction — escalates the structural vacuum.  
 > • Internal Review (IR2) was lodged on 10 Sep, challenging narrow scope construction, inadequate searches, and AWAC document denial.  
-> • IR2 outcome is pending.
+>
+> **Current status:**  
+> • IR2 outcome is pending (decision due 25 Sep 2025).  
+> • Scope of review limited to adequacy of searches, not policy enforcement.
 
 ---
 
@@ -99,12 +135,22 @@ A formal trace of institutional silence.*
 | 25 Aug 2025 | DPIRD formally acknowledges FOI3                         | [FOI3 Acknowledgement](/resources/foi3_Acknowledge_letter.pdf) |
 
 > **📝 FOI3 Summary:**  
+> **What was asked:**  
 > • FOI3 investigates how high up the silence goes:  
->  • Have ministers ever been briefed about DI performance?  
->  • Has DPIRD ever consulted external oversight bodies?  
->  • Have internal audits ever acknowledged DI compliance risk?  
+>  1. Have ministers ever been briefed about DI performance?  
+>  2. Has DPIRD ever consulted external oversight bodies?  
+>  3. Have internal audits ever acknowledged DI compliance risk?  
 > • These questions test **secondary accountability structures** — not just absence of data, but absence of escalation.  
-> • Response pending (due by 9 Oct 2025).
+> 
+> **What was revealed:**  
+> • Response pending (due by 9 Oct 2025).  
+> 
+> **What followed:**  
+> • DPIRD acknowledged FOI3 on 25 Aug 2025.  
+> 
+> **Current status:**  
+> • Response pending (due by 9 Oct 2025).  
+> • This review will test whether silence extends to ministerial and integrity oversight levels.
 
 ---
 
