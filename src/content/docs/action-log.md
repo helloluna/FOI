@@ -5,7 +5,7 @@ description: Timeline of FOI cycles, institutional nonresponse, and memory trace
 
 # Action Log – WA Animal Welfare Transparency  
 **Maintained by Hanyu Liu**  
-_Last updated: July 2025_
+_Last updated: September 2025_
 
 This is a structural record — not of what was achieved,  
 but of what was attempted, requested, refused, and left undocumented.
@@ -69,17 +69,46 @@ A formal trace of institutional silence.*
 |-------------|----------------------------------------------------------|------------------|
 | 10 Jul 2025 | FOI2 application submitted to DPIRD                      | [FOI2 Submission Email](/resources/FOI2-email.pdf), [FOI2 Form](/resources/Foi2.pdf) |
 | 10 Jul 2025 | Acknowledgement of FOI2 by DPIRD                         | [FOI2 Acknowledgement](/resources/foi2-Acknowledgement-Letter.pdf) |
+| 20 Aug 2025 | Extension requested by DPIRD (2 weeks)                   | [Extension Email](/resources/foi2_extension_email.pdf) |
+| 8 Sep 2025  | Notice of Decision: Section 26 refusal re-issued        | [Notice of Decision](/resources/foi2_result.pdf) |
+| 10 Sep 2025 | Internal review request submitted to DPIRD              | [IR2 Application](/resources/ir2_application_email.pdf) |
+| 10 Sep 2025 | IR2 acknowledged by DPIRD; due by 25 Sep                | [IR2 Acknowledgement](/resources/ir2_acknowledge_letter.pdf) |
 
 > **📝 FOI2 Summary:**  
 > • FOI2 targets the **meta-structure** of regulatory silence:  
 >  1. Has AWAC ever discussed DI oversight?  
 >  2. Has DPIRD assessed the risk of having no enforcement records?  
 >  3. Is there any valid policy or SOP guiding DI practices?  
-> • All questions are designed as structural traps — either yield documents, or admit institutional voids.  
+> • All questions are designed as structural traps — either yield documents, or admit institutional voids. 
 > • Refusal will trigger further escalation under grounds of public interest and procedural risk.
----
-## ✉️ Institutional Contact Log
+> • On 8 September 2025, DPIRD again invoked **Section 26** to deny access — asserting that **no records** exist relating to oversight, risk management, or DI policy.  
+> • This second formal claim of “non-existence” — after FOI1's contradiction — escalates the structural vacuum.  
+> • Internal Review (IR2) was lodged on 10 Sep, challenging narrow scope construction, inadequate searches, and AWAC document denial.  
+> • IR2 outcome is pending.
 
+---
+
+## 🔁 Cycle 3 – FOI3: Ministerial Briefings & Integrity Channels  
+> *From missing data → to missing escalation pathways.*
+
+### 📅 FOI3 – Timeline of Escalation
+
+| Date        | Event                                                    | Linked Document |
+|-------------|----------------------------------------------------------|------------------|
+| 22 Aug 2025 | FOI3 lodged: targets ministerial briefings, OAG/Ombudsman contact, internal DI compliance records | [FOI3 Application](/resources/foi3.pdf) |
+| 25 Aug 2025 | DPIRD formally acknowledges FOI3                         | [FOI3 Acknowledgement](/resources/foi3_Acknowledge_letter.pdf) |
+
+> **📝 FOI3 Summary:**  
+> • FOI3 investigates how high up the silence goes:  
+>  • Have ministers ever been briefed about DI performance?  
+>  • Has DPIRD ever consulted external oversight bodies?  
+>  • Have internal audits ever acknowledged DI compliance risk?  
+> • These questions test **secondary accountability structures** — not just absence of data, but absence of escalation.  
+> • Response pending (due by 9 Oct 2025).
+
+---
+
+## ✉️ Institutional Contact Log
 > *All correspondence is public interest-driven, with recipients grouped by their institutional oversight or advocacy function.*
 
 ### 1. Government Oversight & Accountability  
