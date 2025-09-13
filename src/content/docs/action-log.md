@@ -39,12 +39,11 @@ A formal trace of institutional silence.*
 
  ### 📝 FOI1 Summary
 > **What was asked:**  
-
-> FOI1 sought to establish whether any basic inspection or enforcement records exist regarding Designated Inspectors (DIs):  
->  1. Have DIs conducted inspections from 2022–2025?  
->  2. Are there any outcome summaries, incident reports, or enforcement actions?  
->  3. Has DPIRD internally reviewed DI capacity, risk, or performance?
-
+>  FOI1 sought to establish whether any basic inspection or enforcement records exist regarding Designated Inspectors (DIs):  
+>   1. Have DIs conducted inspections from 2022–2025?  
+>   2. Are there any outcome summaries, incident reports, or enforcement actions?  
+>   3. Has DPIRD internally reviewed DI capacity, risk, or performance?
+> 
 > **What was revealed:**  
 > • On 1 May 2025, DPIRD issued a formal refusal under **Section 26** — asserting that **no documents** exist.  
 > • The only released file was a blank generic template with no substantive content.  
@@ -67,11 +66,11 @@ A formal trace of institutional silence.*
 
 > ### 📝 OIC Review Summary (FOI1 External Review)
 > **What is under review:**  
-> The external review (OIC Ref: FOI2025-008) investigates DPIRD’s internal contradiction regarding the existence of inspection outcome records.  
-> It assesses:  
->  1. Whether DPIRD failed to conduct a reasonable search under FOI Act obligations.  
->  2. Whether the agency improperly withheld documents at the initial decision stage.  
->  3. Whether transparency duties were breached through misleading or incomplete responses.
+>  The external review (OIC Ref: FOI2025-008) investigates DPIRD’s internal contradiction regarding the existence of inspection outcome records.  
+>  It assesses:  
+>   1. Whether DPIRD failed to conduct a reasonable search under FOI Act obligations.  
+>   2. Whether the agency improperly withheld documents at the initial decision stage.  
+>   3. Whether transparency duties were breached through misleading or incomplete responses.
 > 
 > **Why this matters:**  
 > • The FOI process revealed **a documented contradiction** — DPIRD first claimed no records exist, then admitted some do.  
@@ -103,9 +102,9 @@ A formal trace of institutional silence.*
 > **📝 FOI2 Summary:**  
 > **What was asked:**  
 > • FOI2 targets the **meta-structure** of regulatory silence:  
->  1. Has AWAC ever discussed DI oversight?  
->  2. Has DPIRD assessed the risk of having no enforcement records?  
->  3. Is there any valid policy or SOP guiding DI practices?  
+>   1. Has AWAC ever discussed DI oversight?  
+>   2. Has DPIRD assessed the risk of having no enforcement records?  
+>   3. Is there any valid policy or SOP guiding DI practices?  
 > • All questions are designed as structural traps — either yield documents, or admit institutional voids. 
 > 
 > **What was revealed:**  
@@ -137,9 +136,9 @@ A formal trace of institutional silence.*
 > **📝 FOI3 Summary:**  
 > **What was asked:**  
 > • FOI3 investigates how high up the silence goes:  
->  1. Have ministers ever been briefed about DI performance?  
->  2. Has DPIRD ever consulted external oversight bodies?  
->  3. Have internal audits ever acknowledged DI compliance risk?  
+>   1. Have ministers ever been briefed about DI performance?  
+>   2. Has DPIRD ever consulted external oversight bodies?  
+>   3. Have internal audits ever acknowledged DI compliance risk?  
 > • These questions test **secondary accountability structures** — not just absence of data, but absence of escalation.  
 > 
 > **What was revealed:**  
