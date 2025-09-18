@@ -76,7 +76,7 @@ _Last updated: September 2025_
 - [FOI1 IR Decision – 8 July](/resources/FOI2025-008-IR-Notice-of-Decision.pdf)  
 - [OIC ER Acceptance – 17 July](/resources/foi1-er-acknowledge-letter.pdf)  
 - [FOI2 Submission – 10 July](/resources/foi2.pdf)  
-- [FOI2 Notice of Decision – 8 Sep](/resources/foi2_result_email.pdf)  
+- [FOI2 Notice of Decision – 8 Sep](/resources/foi2_result.pdf)  
 - [IR2 Submission – 10 Sep](/resources/ir2_application_email.pdf)  
 - [IR2 Acknowledgement – 11 Sep](/resources/ir2_acknowledge_letter.pdf)  
 - [FOI3 Submission – 22 Aug](/resources/foi3.pdf)
