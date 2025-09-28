@@ -6,8 +6,8 @@ description: Method and philosophy of this archive — why it exists, and how it
 # About unseenbeings  
 *Written on: September 2025*
 
-> ⚠️ This page is not neutral.  
-> It is a declaration of method and philosophy — the reasons this archive exists.
+> This page is not written in the voice of neutrality.
+> It is a record of method and philosophy: how and why this archive exists.
 
 **unseenbeings is a public archive.**  
 
