@@ -1,114 +1,88 @@
 ---
 title: About
-description: A record of absence, and those who remained unrecorded.
+description: Method and philosophy of this archive — why it exists, and how it sees.
 ---
 
-# About This Project
+# About unseenbeings  
+*Written on: September 2025*
 
-> *Not all silence is passive.  
-Some is constructed.*
+> ⚠️ This page is not neutral.  
+> It is a declaration of method and philosophy — the reasons this archive exists.
 
-This is not a campaign.  
-Nor a protest.  
-It is a response to a silence that has become structural.
+**unseenbeings is a public archive.**  
 
-It began as a simple request:  
-*What do the records say about the lives inside?*
-
-> *They said: There are no records.*
+Its sole purpose is to strip away the halos of institutional performance and human self-comfort, leaving a stark record of the void, the limit, and true accountability.  
 
 ---
 
-> *Every system has a memory — or a deliberate absence of it.*
+## 1. What We Found in the Archive (The Supervisory Illusion)  
 
-
-I work in the gap between what is **claimed** and what is **traceable**.  
-This project lives in that gap — not to close it, but to expose it.
-
-Its focus is narrow and deliberate:  
-**farmed animals confined in industrial systems, whose suffering is designed to disappear.**  
-Not by accident, but by *structure*.
-
-> *Pigs. Hens. Those rendered into numbers, categories, protocols, or nothing at all.*
-
-Not because they don’t matter —  
-But because we built a world where they **can’t**.
+### 🕳️ The OIC's Time Black Hole  
+- The OIC has officially admitted to a severe backlog and has no timeline for resolution.  
+- Its case allocation process is **non-transparent and non-chronological**, meaning a complaint can be indefinitely shelved.  
+- **Conclusion:** The right to an external review, when indefinitely delayed, is a right nullified.  
 
 ---
 
-## Why FOI?
-
-> *Transparency is not the goal.  
-It is the tool used to reveal the absence of accountability.*
-
-I use FOI laws because they are one of the few levers that remain.
-
-Not to fight.  
-But to *register*.  
-To document what is denied, refused, forgotten — or never considered worth recording.
-
-> When the state cannot provide records,  
-> we do not receive “no data.”  
-> We receive **an admission that absence is policy**.
-
-This is not bureaucratic process.  
-It is an **ethical surface** —  
-Where silence becomes something visible.
+### 🔒 The Ombudsman's Procedural Deadlock  
+- The Ombudsman’s official position is that it will not act until the OIC has closed its case.  
+- The result: the OIC's delay automatically becomes the Ombudsman’s delay.  
+- Given the Ombudsman’s own tendency for delays, this creates a **dual time-lag — dysfunction compounded**.  
 
 ---
 
-## The Repeating Pattern
+### 🎭 The Illusion of Parliamentary Channels  
+- **WA Committees:** Often engage in performative theatre, where process is more symbolic than substantive.  
+- **Federal Level:** The Senate and its committees have long noted FOI and oversight failures, but lack the will or power to enforce repairs.  
+- **Essence:** Parliamentary oversight is often just another act of archiving a known failure.  
 
-> *A loop of refusal becomes a pattern.  
-A pattern becomes a system.*
+**The Equation:**  
+- Animal Welfare Regulation = *A Known Theatre*  
+- FOI / OIC / Ombudsman = *A Procedural Illusion*  
+- Parliament = *A Theatre of Summation*  
 
-This project is a cycle.  
-Each round is the same, and yet not:
-
-1. **Request** — what should already exist  
-2. **Wait** — for what cannot be admitted  
-3. **Receive** — nothing, or something shaped to be nothing  
-4. **Record** — refusal, absence, trace
-
-And again.
-
-> *Each repetition is a quiet defiance.*  
-Not loud enough to break the silence —  
-But enough to **mark that we did not join it**.
+→ The entire oversight system reveals itself to be an **illusion**.  
 
 ---
 
-## What This Is Not
+### ⚖️ The Underlying Cause  
+This systemic failure, documented in official papers, cannot be explained away by mismanagement or lack of resources.  
+It points to a deeper dilemma of **power, responsibility, and self-deception.**  
 
-> *This is not outreach.  
-It is exposure.*
-
-This is not a call for empathy.  
-Not an effort to persuade.  
-I do not ask people to care.
-
-What I ask is this:
-
-> If institutions claim to act for animals —  
-> **Then where is the trace of those actions?**  
-> **Where are the records?**
-
-If there is no memory, there is no governance.  
-If there is no trace, there was no witness.
-
-> *This archive exists so that their unrecorded lives do not vanish completely.*
+- **The Consumer Contradiction:** The public desires cheap, mass-produced meat.  
+- **The Cultural Contradiction:** Society wants to see itself as humane and civilised, but cannot face the cruelty of industrial farming.  
+- **The Core Conflict:** Factory farming reality is incompatible with civilisation’s self-image.  
+- **The Result:** The system manufactures **supervisory illusions** (OIC, Ombudsman, Parliament), creating the *appearance* of oversight while the structure is hollow.  
 
 ---
 
-> *Some things cannot be saved.  
-But they can be remembered —  
-And refusal can be named.*
+## 2. The Philosophical Argument  
+- An institution is not omnipotent. It has limits. It can fail.  
+- But it cannot fail and simultaneously feign innocence.  
+
+This requires acknowledging humanity’s historical shift: from **prey to sovereign**.  
+The issue is not the act of eating meat, but the act of pretending innocence — of denying the blood on our hands.  
+
+**Truth:** illusion is the deepest form of violence.  
+**Response:** unseenbeings refuses this illusion.  
 
 ---
 
-## Contact
+## 3. The Project’s Stance  
+- I do not rescue.  
+- I do not persuade.  
+- I do not mobilise.  
 
-- **Email:** helloluna520@gmail.com  
-- **GitHub:** [https://github.com/helloluna/FOI](https://github.com/helloluna/FOI)  
-- **Live Site:** [https://unseenbeings.org/](https:unseenbeings.org/)
+I **only record**.  
+I translate the outputs — `∅` (No Document), `✖` (Exempt), `~` (Smokescreen), `✓` (Delivered) — into a map of systemic rupture.  
 
+---
+
+## 4. The Ethical Conclusion (Humanity & Animals)  
+- To eat meat is not the original sin. But we must acknowledge that the meal on the plate was once **a life, a consciousness**.  
+- Humanity is part of a chain. We must see the blood on our hands — and only then make our choice.  
+
+From **2030**, the rise of cultured meat may offer a technological exit from systemic oppression and slaughter.  
+But a deeper reckoning lies further ahead.  
+
+**unseenbeings** translates this act of *seeing* into an archive, and entrusts it to the future.  
