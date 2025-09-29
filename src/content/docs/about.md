@@ -63,7 +63,7 @@ It points to a deeper dilemma of **power, responsibility, and self-deception.**
 This requires acknowledging humanity’s historical shift: from **prey to sovereign**.  
 The issue is not the act of eating meat, but the act of pretending innocence — of denying the blood on our hands.  
 
-**Truth:** illusion is the deepest form of violence.  
+**Truth:** illusion is the deepest form of violence. To acknowledge the facts is the bare minimum of honesty.
 **Response:** unseenbeings refuses this illusion.  
 
 ---
