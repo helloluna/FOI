@@ -1,24 +1,86 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://unseenbeings.org/</loc>
-    <lastmod>2025-06-22</lastmod>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://unseenbeings.org/action-log</loc>
-    <lastmod>2025-06-22</lastmod>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://unseenbeings.org/resources</loc>
-    <lastmod>2025-06-22</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://unseenbeings.org/about</loc>
-    <lastmod>2025-06-22</lastmod>
-    <priority>0.7</priority>
-  </url>
-  <!-- 你可以继续手动添加其它页面，比如 download 的pdf、专题页面等 -->
-</urlset>
+import { defineConfig } from 'astro/config';
+import sitemap from '@astrojs/sitemap';
+import starlight from '@astrojs/starlight';
+import fg from 'fast-glob';
+import fs from 'node:fs';
+import path from 'node:path';
+
+// 基础站点域名（很重要，sitemap 的绝对 URL 用它）
+const SITE = 'https://unseenbeings.org';
+
+// 构建时间（ISO）
+const BUILD_TIME = new Date().toISOString();
+
+// 自动收集 /public/resources 下所有 PDF 路径
+// 生成绝对 URL & 记录每个 PDF 的 mtime，供 sitemap.lastmod 使用
+const pdfFiles = await fg('public/resources/**/*.pdf');
+const pdfUrlAndMtime = pdfFiles.map((p) => {
+  const stat = fs.statSync(p);
+  const url = `${SITE}/${p.replace(/^public\//, '')}`;
+  return { url, mtime: stat.mtime.toISOString(), pathname: `/${p.replace(/^public\//, '')}` };
+});
+
+// 方便在 serialize() 里查找 mtime
+const pdfMtimeMap = new Map(pdfUrlAndMtime.map(({ pathname, mtime }) => [pathname, mtime]));
+
+// 供 @astrojs/sitemap 的 customPages 使用
+const customPdfPages = pdfUrlAndMtime.map(({ url }) => url);
+
+export default defineConfig({
+  site: SITE,
+
+  integrations: [
+    starlight({
+      title: 'WA Animal Welfare Transparency',
+      sidebar: [
+        {
+          label: 'Overview',
+          items: [
+            { label: 'Home', link: '/' },
+            { label: 'About', link: '/about' },
+          ],
+        },
+        {
+          label: 'Actions & Records',
+          items: [
+            { label: 'Action Log', link: '/action-log' },
+            { label: 'Downloads & Resources', link: '/resources' },
+            { label: '25 Years of Legislative Theatre', link: '/legislative-timeline' },
+            { label: 'Official Claims vs. Reality', link: '/contradictions' },
+          ],
+        },
+      ],
+      customCss: ['./src/styles/starlight.css'],
+    }),
+
+    // 自动 Sitemap
+    sitemap({
+      // 自动把 PDF 也加入（页面会自动被扫描；静态 PDF 通过 customPages 注入）
+      customPages: customPdfPages,
+
+      // 过滤掉 404 等不需要的路由
+      filter: (page) => !page.pathname.includes('404'),
+
+      // 统一设置 lastmod / priority（页面=构建时间；PDF=文件 mtime）
+      serialize(item) {
+        const isPage = !item.pathname.includes('.') || item.pathname.endsWith('/');
+        const isPDF = item.pathname.endsWith('.pdf');
+
+        // lastmod：页面用构建时间；PDF 用真实 mtime；其它忽略
+        const lastmod = isPDF
+          ? (pdfMtimeMap.get(item.pathname) ?? BUILD_TIME)
+          : (isPage ? BUILD_TIME : undefined);
+
+        if (isPage || isPDF) {
+          return {
+            ...item,
+            lastmod,
+            changefreq: isPage ? 'monthly' : 'yearly',
+            priority: isPage ? 0.8 : 0.6,
+          };
+        }
+        return null;
+      },
+    }),
+  ],
+});

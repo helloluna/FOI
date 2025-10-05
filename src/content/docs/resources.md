@@ -38,6 +38,7 @@ Each document is a structural artifact:
 - ✓ [OIC ER Acceptance Letter – 17 July 2025](/resources/foi1-er-acknowledge-letter.pdf)  
 - ✓ [OIC FOI Application (Case F2025236)](/resources/oic_foi_application.pdf)  
 - ~ [OIC Clarification Request – Case Assignment Protocol](/resources/OIC_Clarification_Requested_Case_Assignment_Protocol.pdf)  
+- ✓ [External Review Request – FOI2025-017, 2 October 2025](/resources/Er2.pdf)  
 
 ---
 
@@ -50,6 +51,7 @@ Each document is a structural artifact:
 - ✓ [Internal Review Application – 10 September 2025](/resources/ir2_application_email.pdf)  
 - ~ [IR2 Acknowledgement Letter – 10 September 2025](/resources/ir2_acknowledge_letter.pdf)  
 - ~ [IR2 Extension Request](/resources/ir2_extension.pdf)  
+- ✖ [Internal Review Decision – 2 October 2025](/resources/ir2.pdf)  
 
 ---
 
@@ -63,6 +65,7 @@ Each document is a structural artifact:
 - ✓ [OAG Reply – Scope Clarification](/resources/OAG_reply.pdf)  
 - ✓ [OIC-Ombudsman Complaint Form](/resources/OIC_Ombudsman_Complain_Form.pdf)  
 - ~ [Ombudsman Deadlock Reply](/resources/Ombudsman_oic_deadlock.pdf)  
+- ∅ [Ombudsman Refusal to Investigate OIC – 3 Oct 2025](/resources/ombudsman_no_oic.pdf)  
 
 ---
 
@@ -78,21 +81,38 @@ Each document is a structural artifact:
 
 ## 📚 Legislative Reviews & Public Submissions
 - ✓ [Easton Review – 2015](/resources/awa_review_2015.pdf)  
-- ✓ [Independent Panel Report – 2020](/resources/awa_review_final_2020.pdf)  
-- ~ [WA Government Response – 2021](/resources/awa_review_government_response_2021.pdf)  
+- ✓ [Independent Panel Report – 2020](/resources/AWA_Review_2020.pdf)  
+- ~ [WA Government Response – 2021](/resources/AWA_Review_Government_Response.pdf)  
 - ✓ [Stakeholder Submissions – 2019](/resources/awa_review_panel_stakeholder_submissions.pdf)  
 - ~ [Stakeholder Forums Summary – 2020](/resources/awa_review_panel_stakeholder_forums.pdf)  
+- ✓ [Hansard – Animal Welfare Bill 2001 Introduction](/resources/2001.pdf)  
+- ✓ [Hansard – Lisa Baker on Collapse of Inspectors (2010)](/resources/2010_Lisa_Baker.pdf)  
+- ✓ [Hansard – Lynn MacLaren Questions on Inspectors (2010)](/resources/2010_Lynn_MacLaren.pdf)  
+- ✓ [Hansard – RSPCA Excluded from Livestock (2013)](/resources/2013_RSPCA_no_livestock.pdf) 
+- ✓ [Hansard – Mark McGowan on RSPCA “McCarthyist Jihad” (2015)](/resources/2015_rspca.pdf) 
+- ✓ [Standing Committee – DI Powers Unnecessary (2017)](/resources/2017_DI_powers_unnecessary.pdf)  
+- ~ [Parliamentary Debate – DI Pre-run Criticism (2020)](/resources/2020_di_prerun.pdf)  
+- ✓ [Hansard – DI Issue Debate (2020)](/resources/2020_di_issue.pdf)  
+- ✓ [Parliament – DI & Trespass Bill (2023)](/resources/2023_bill_web.pdf)  
+- ✓ [Hansard – Labor on DI (2023)](/resources/2023_labor_di.pdf)  
+- ✓ [Hansard – Nationals on DI (2023)](/resources/2023_national_di.pdf)  
+- ✓ [Hansard – AWAC Non-Statutory Confirmation (2025)](/resources/2025_awac.pdf)  
+- ✓ [Hansard – New Chief Animal Protection Officer Bill (2025)](/resources/2025_new_bill.pdf)  
+- ✓ [Parliament Petition – 4,043 Signatures (2025)](/resources/2025_petiton.pdf)  
+- ✓ [Hansard – Puppy Farming Reform Failure (2025)](/resources/2025_puppy_farm.pdf)  
+- ~ [State Budget 2011–12 Animal Welfare Commitment](/resources/State_Budget_2011_12_web.pdf)  
 
 ---
 
 ## 🏛️ Governance Structures & Omissions
 - ~ [DPIRD Annual Report 2023–24](/resources/dpird_annual_report_2023_24.pdf)  
 - ~ [DPIRD Information Statement 2024–25](/resources/dpird_information_statement_2024_25.pdf)  
-- ~ [Trespass Legislation FAQ – 2023](/resources/faq_animal_welfare_trespass_legislation_2023.pdf)  
-- ~ [Regulatory Compliance Philosophy](/resources/regulatory_compliance_approach.pdf)  
-- ~ [AWAC Terms of Reference](/resources/terms_of_reference_awac.pdf)  
+- ~ [Trespass Legislation FAQ – 2023](/resources/FAQ-Animal_Welfare_and_Trespass_Legislation.pdf)  
+- ~ [AWAC Terms of Reference](/resources/Terms_of_Reference_AWAC_WA.pdf)  
+- ✓ [Animal Welfare and Trespass Legislation Amendment Act 2023](/resources/Animal_Welfare_and_Trespass_Legislation_Amendment_Act_2023.pdf)  
+- ~ [AWA 2002 (Full Act)](/resources/AWA_2002.pdf)  
 - ✓ [DI Transparency Timeline (PNG)](/resources/di_transparency_timeline_table.png)  
-- ~ [OIC Annual Report 2023–24](/resources/oic-annual-report-2023-2024.pdf)  
+- ~ [OIC Annual Report 2023–24](/resources/oic-annual-report-2023-2024.pdf)   
 
 ---
 

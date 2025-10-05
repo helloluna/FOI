@@ -79,13 +79,14 @@ FOI1 = **Result vacuum.** (The agency claimed no results existed, then contradic
 |-------------|-------------|-------------------------------------------|-----------------|
 | 5 Aug 2025  | OAG         | Scope clarification reply                 | [OAG Reply](/resources/OAG_reply.pdf) |
 | 22 Jul 2025 | Ombudsman   | Defers: will not act until OIC concludes  | [Ombudsman Letter](/resources/Ombudsman_oic_deadlock.pdf) |
-| 12 Aug 2025 | Ombudsman   | Complaint lodged re OIC delay             | [Complaint Form](/resources/OIC_Ombudsman_Complain_Form.pdf) |
+| 25 Sep 2025 | Ombudsman   | Complaint lodged re OIC delay             | [Complaint Form](/resources/OIC_Ombudsman_Complain_Form.pdf) |
+| 3 Oct 2025 | Ombudsman   | Formal reply: **will not investigate OIC delays** | [Ombudsman No Jurisdiction](/resources/ombudsman_no_oic.pdf) |
 
 **Structural meaning:**  
-- OIC = **indefinite backlog**  
-- Ombudsman = **jurisdiction blocked until OIC finishes**  
-- OAG = **scope disclaimers, no intervention**  
-Together, these form an **oversight deadlock.** (Each body waits for another, so nothing moves.)
+OIC = **time black hole**  
+Ombudsman = **jurisdictional void**  
+OAG = **non-intervention**  
+Together = **oversight deadlock confirmed.**
 
 ---
 
@@ -103,11 +104,14 @@ Together, these form an **oversight deadlock.** (Each body waits for another, so
 | 10 Sep 2025 | ✖ Internal review request lodged                         | [IR2 Application](/resources/ir2_application_email.pdf) |
 | 10 Sep 2025 | ~ IR2 acknowledged, due by 25 Sep                        | [IR2 Acknowledge](/resources/ir2_acknowledge_letter.pdf) |
 | 17 Sep 2025 | ~ IR2 extension requested                                | [IR2 Extension](/resources/ir2_extension.pdf) |
+| 2 Oct 2025  | ✖ Internal Review Decision — confirms unreasonable search & misconstruction | [IR2 Decision](/resources/ir2.pdf) |
+| 2 Oct 2025  | ✓ External Review lodged with OIC (ER2)                 | [ER2 Application](/resources/Er2.pdf) |
 
 **Structural meaning:**  
-FOI2 = **Process vacuum.** (The agency admitted it has no oversight rules or safeguards at all.)
-
-⏳ IR2 pending.  
+FOI2 = **Process vacuum → confirmed bad faith search.**  
+DPIRD restricted keywords to “DI”, excluding all policy and risk terms.  
+**IR2 concluded:** search unreasonable, scope illogical.  
+**ER2 now tests OIC’s ability to correct it.**
 
 ---
 

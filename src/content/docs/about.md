@@ -9,7 +9,10 @@ description: Method and philosophy of this archive — why it exists, and how it
 > This page is not written in the voice of neutrality.
 > It is a record of method and philosophy: how and why this archive exists.
 
-**unseenbeings is a public archive.**  
+
+**unseenbeings** began as an attempt to map *absence*.  
+It has since evolved into an investigation of **deliberate non-implementation** —  
+where government builds the scaffolding of oversight only to leave it empty.
 
 Its sole purpose is to strip away the halos of institutional performance and human self-comfort, leaving a stark record of the void, the limit, and true accountability.  
 
@@ -25,6 +28,7 @@ Its sole purpose is to strip away the halos of institutional performance and hum
 ---
 
 ### 🔒 The Ombudsman's Procedural Deadlock  
+- Confirms it **cannot investigate the OIC**, citing jurisdictional limits.  
 - The Ombudsman’s official position is that it will not act until the OIC has closed its case.  
 - The result: the OIC's delay automatically becomes the Ombudsman’s delay.  
 - Given the Ombudsman’s own tendency for delays, this creates a **dual time-lag — dysfunction compounded**.  
