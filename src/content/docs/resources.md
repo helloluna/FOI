@@ -9,10 +9,10 @@ description: Archive of institutional traces, FOI outputs, and policy silences.
 
 This archive is a **memory scaffold** — a trace of what institutions reveal, conceal, or refuse to record.  
 Each document is a structural artifact:  
-- `✓` Delivered evidence  
-- `~` Procedural material  
-- `∅` No documents (silence)  
-- `✖` Exempt (black box claim)  
+- `✓` Found – documents released
+- `~` In process – delay or procedural step  
+- `∅` None – no documents exist  
+- `✖` Withheld – access refused or exempt
 
 ---
 
@@ -38,6 +38,7 @@ Each document is a structural artifact:
 - ✓ [OIC ER Acceptance Letter – 17 July 2025](/resources/foi1-er-acknowledge-letter.pdf)  
 - ✓ [OIC FOI Application (Case F2025236)](/resources/oic_foi_application.pdf)  
 - ~ [OIC Clarification Request – Case Assignment Protocol](/resources/OIC_Clarification_Requested_Case_Assignment_Protocol.pdf)  
+- ✓ [OIC FOI Exemption Document](/resources/Oic_foi.pdf)  
 - ✓ [External Review Request – FOI2025-017, 2 October 2025](/resources/Er2.pdf)  
 
 ---
@@ -57,7 +58,14 @@ Each document is a structural artifact:
 
 ### FOI 3 – Ministerial Briefings & Integrity Channels
 - ✓ [FOI3 Application Form – 22 August 2025](/resources/foi3.pdf)  
-- ~ [FOI3 Acknowledgement Letter – 25 August 2025](/resources/foi3_Acknowledge_letter.pdf)  
+- ~ [FOI3 Acknowledgement Letter – 25 August 2025](/resources/foi3_Acknowledge_letter.pdf)
+- ∅ [FOI3 Notice of Decision – 13 October 2025](/resources/Foi3_result.pdf)  
+- ✓ [Internal Review Application (IR3) – 14 October 2025](/resources/ir3_application.pdf)
+
+---
+
+### FOI 4 – Recordkeeping, Legal Authority & Financial Accountability
+- ✓ [FOI4 Application Form – 12 October 2025](/resources/Foi4.pdf)  
 
 ---
 
@@ -117,8 +125,10 @@ Each document is a structural artifact:
 ---
 
 ## 📊 FOI Systemic Analyses
-- ✓ [“Nothing to See Here” – Australia’s Broken FOI System (Grata Fund, 2024)](/resources/P1342-Nothing-to-see-here-Australias-broken-FOI-system-WEB.pdf)  
+- ✓ [“Nothing to See Here” – Australia’s Broken FOI System (The Australia Institute, 2024)](/resources/P1342-Nothing-to-see-here-Australias-broken-FOI-system-WEB.pdf)  
 - ✓ [FOI Culture Study – Linkage Council Research Project](/resources/Australia-Linkage-Council-Research-Project-FOI-Culture-study-Final-report.pdf)  
+- ✓ [The Operation of Commonwealth Freedom of Information Laws (Parliamentary Report)](/resources/TheoperationofCommonwealthFreedomofInformation(FOI)laws.pdf)  
+
 
 ---
 

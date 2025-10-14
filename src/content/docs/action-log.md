@@ -7,7 +7,7 @@ description: Timeline of FOI cycles, institutional nonresponse, and structural m
 
 # Action Log – WA Animal Welfare Transparency  
 **Maintained by Hanyu Liu**  
-_Last updated: September 2025_
+_Last updated: October 2025_
 
 This is a structural record — not of what was achieved,  
 but of what was attempted, requested, refused, and left undocumented.
@@ -17,7 +17,7 @@ Each entry is part of a wider cycle:
 This log preserves that cycle,  
 **not as progress — but as accountability.**
 
-**How to read symbols:** `✓ delivered` · `~ procedural` · `∅ no documents` · `✖ exempt/withheld`
+**How to read symbols:** `✓ Found` · `~ In process` · `∅ None` · `✖ Hidden`
 
 ---
 
@@ -65,22 +65,30 @@ FOI1 = **Result vacuum.** (The agency claimed no results existed, then contradic
 | 10 Jul 2025 | Complaint lodged with OIC under s.65            | [ER Submission](/resources/ER-application-email-FOI2025-008(DPIRD).pdf) |
 | 17 Jul 2025 | OIC accepts review but states **no timeframe**  | [ER Acknowledge](/resources/foi1-er-acknowledge-letter.pdf) |
 | 16 Sep 2025 | OIC confirms **no written case allocation policy** | [Clarification Request](/resources/OIC_Clarification_Requested_Case_Assignment_Protocol.pdf) |
-| 18 Sep 2025 | FOI lodged with OIC itself (re case protocols) | [OIC FOI Application](/resources/oic_foi_application.pdf) |
+| 28 Sep 2025 | FOI lodged with OIC itself (re case protocols) | [OIC FOI Application](/resources/oic_foi_application.pdf) |
+| 10 Oct 2025  | ✖ OIC refuses FOI request — cites **Schedule 2 exemption** | [OIC FOI Refusal Letter](/resources/Oic_foi.pdf) |
 
 ### 📝 OIC Review Summary
 - **Indefinite wait** at acceptance (17 Jul); OIC Annual Report shows ~**40%** of reviews exceed **12 months** ([Report](/resources/oic-annual-report-2023-2024.pdf)).
 - **No written allocation policy** admitted (16 Sep) → discretionary, non-chronological triage = **time black hole**.
 - **Counter-FOI** lodged with OIC to obtain case-management protocols.
+- ✖ **Refusal issued (10 Oct)** under *Freedom of Information Act 1992* Schedule 2 — OIC declares itself **exempt from FOI**, returning payment in full.
+  → Oversight body formally confirms it operates **outside the law it enforces.**
+
+**Structural meaning:**  
+OIC = **procedural illusion.**  
+A body that exists to guarantee transparency,  
+but is legally shielded from transparency itself.
+
 ---
 
 ### 🧭 Oversight Escalation (Cycle 1)
 
-| Date        | Institution | Event / Outcome                           | Linked Document |
-|-------------|-------------|-------------------------------------------|-----------------|
-| 5 Aug 2025  | OAG         | Scope clarification reply                 | [OAG Reply](/resources/OAG_reply.pdf) |
-| 22 Jul 2025 | Ombudsman   | Defers: will not act until OIC concludes  | [Ombudsman Letter](/resources/Ombudsman_oic_deadlock.pdf) |
-| 25 Sep 2025 | Ombudsman   | Complaint lodged re OIC delay             | [Complaint Form](/resources/OIC_Ombudsman_Complain_Form.pdf) |
-| 3 Oct 2025 | Ombudsman   | Formal reply: **will not investigate OIC delays** | [Ombudsman No Jurisdiction](/resources/ombudsman_no_oic.pdf) |
+| Date        | Institution | Event / Outcome                                                                 | Linked Document |
+|--------------|--------------|--------------------------------------------------------------------------------|-----------------|
+| 22 Jul 2025  | Ombudsman   | Complaint lodged against DPIRD for maladministration; Ombudsman replies it will **wait until OIC finishes** before acting | [Ombudsman Letter](/resources/Ombudsman_oic_deadlock.pdf) |
+| 25 Sep 2025  | Ombudsman   | New complaint lodged — focuses on **OIC’s indefinite delays and case allocation opacity** | [Complaint Form](/resources/OIC_Ombudsman_Complain_Form.pdf) |
+| 3 Oct 2025   | Ombudsman   | Formal reply: states **no jurisdiction to investigate OIC**, and DPIRD complaint remains on hold pending OIC outcome | [Ombudsman No Jurisdiction](/resources/ombudsman_no_oic.pdf) |
 
 **Structural meaning:**  
 OIC = **time black hole**  
@@ -107,11 +115,20 @@ Together = **oversight deadlock confirmed.**
 | 2 Oct 2025  | ✖ Internal Review Decision — confirms unreasonable search & misconstruction | [IR2 Decision](/resources/ir2.pdf) |
 | 2 Oct 2025  | ✓ External Review lodged with OIC (ER2)                 | [ER2 Application](/resources/Er2.pdf) |
 
+### 📝 FOI2 Summary
+
+**What was asked:**  
+Whether DPIRD had any internal rules, risk assessments, or oversight systems for Designated Inspectors.
+
+**What was revealed:**  
+- ∅ Refused under **Section 26** — said no such documents exist.  
+- Searches limited only to the words “Designated Inspector,” missing broader terms like policy or risk.  
+- ✖ Internal Review confirmed this narrow search, showing the system avoided its own oversight.
+
 **Structural meaning:**  
-FOI2 = **Process vacuum → confirmed bad faith search.**  
-DPIRD restricted keywords to “DI”, excluding all policy and risk terms.  
-**IR2 concluded:** search unreasonable, scope illogical.  
-**ER2 now tests OIC’s ability to correct it.**
+FOI2 = **Process vacuum.**  
+The agency proved it has no rules or risk controls for its own inspectors.  
+**Status:** ⏳ External review now with OIC (Ref: ER2).  
 
 ---
 
@@ -124,11 +141,51 @@ DPIRD restricted keywords to “DI”, excluding all policy and risk terms.
 |-------------|----------------------------------------------------------|-----------------|
 | 22 Aug 2025 | FOI3 lodged: ministerial briefings, OAG/Ombudsman contact, DI audits | [FOI3 Application](/resources/foi3.pdf) |
 | 25 Aug 2025 | ~ DPIRD acknowledges FOI3                                | [FOI3 Acknowledge](/resources/foi3_Acknowledge_letter.pdf) |
+| 13 Oct 2025 | ∅ Notice of Decision — no ministerial briefings, no inter-agency reporting | [Decision](/resources/Foi3_result.pdf) |
+| 14 Oct 2025 | ✓ Internal Review lodged (IR3)                           | [IR3 Application](/resources/ir3_application.pdf) |
+
+### 📝 FOI3 Summary
+
+**What was asked:**  
+Whether the Minister, Parliament, or oversight bodies ever received briefings or reports about these missing inspection systems.
+
+**What was revealed:**  
+- ∅ DPIRD said no briefings, reports, or communications exist.  
+- ✖ This means no one above the Department has ever been formally told the system has no records.  
+- The chain of accountability ends where it begins.
 
 **Structural meaning:**  
-FOI3 = **Accountability vacuum.** (No evidence of reporting upward; the chain of responsibility cuts off.)
+FOI3 = **Accountability vacuum.**  
+No upward reporting, no escalation, no record of responsibility.  
+**Status:** ⏳ Internal review underway (IR3).  
 
-⏳ Response due 9 Oct 2025.  
+---
+
+## 🔁 Cycle 4 – FOI4: Recordkeeping, Legal Authority & Financial Accountability  
+*The final mirror — forcing the system to see its own paperwork.*
+
+### 📅 FOI4 – Timeline
+
+| Date        | Event                                                      | Linked Document |
+|--------------|------------------------------------------------------------|-----------------|
+| 12 Oct 2025  | ✓ FOI4 lodged – Recordkeeping, DI appointments, finances   | [FOI4 Application](/resources/Foi4.pdf) |
+| 13 Oct 2025→ | ~ Acknowledgement pending                                  | [FOI4 Pending](/resources/Foi4_future.pdf) |
+
+### 📝 FOI4 Summary
+
+**What was asked:**  
+Whether DPIRD keeps proper records, appointments, and budgets for the Designated Inspector program — as required by the *State Records Act 2000.*
+
+**What was revealed:**  
+- Request still in progress.
+- If records exist, they should show how the program is managed and funded.  
+- If no records exist, it means even the paperwork behind enforcement has disappeared.
+
+**Structural meaning:**  
+FOI4 = **Compliance vacuum.**  
+Tests whether the Department follows its own recordkeeping laws.  
+Even a refusal will prove the system cannot document itself.  
+**Status:** ⏳ Awaiting agency response.  
 
 ---
 
@@ -189,10 +246,10 @@ FOI3 = **Accountability vacuum.** (No evidence of reporting upward; the chain of
 ---
 
 ## 🧭 Forthcoming Cycles
-- **Cycle 4:** OIC Case Management Protocol FOI (pending)  
-- **Cycle 5:** Ombudsman complaint on OIC delays (drafting)  
-- **Cycle 6:** Parliamentary committee briefings (planned)  
-- **Archive Expansion:** visual timelines, heatmaps of systemic silence, comparative trace analysis.  
+- **Cycle 5:** Minister’s Office FOI – briefings and correspondence on DI & AWAC (pending)  
+- **Cycle 6:** Ombudsman complaint on OIC delays (planned)  
+- **Cycle 7:** Parliamentary committee briefings (drafting)  
+- **Archive Expansion:** visual timelines, cross-agency vacuum maps, systemic silence analytics.  
 
 ---
 
