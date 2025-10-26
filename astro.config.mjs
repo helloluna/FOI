@@ -23,11 +23,17 @@ export default defineConfig({
             { label: 'Official Claims vs. Reality', link: '/contradictions' },
           ],
         },
+        {
+          label: 'Analyses & Evidence',
+          items: [
+            { label: 'The Illusion of Democratic Oversight', link: '/democratic-illusion' },
+            { label: 'WA OIC: Systemic Resource Starvation (2002–2025)', link: '/oic-starvation' },
+          ],
+        },
       ],
       customCss: ['./src/styles/starlight.css'],
     }),
     sitemap({
-      // ✅ 修复 Netlify 报错的核心：防止 undefined 访问
       filter: (page) => typeof page?.url === 'string',
     }),
   ],

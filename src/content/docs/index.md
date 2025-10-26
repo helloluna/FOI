@@ -1,6 +1,6 @@
 ---
 title: Home
-description: Overview of WA's animal welfare FOI timeline and structural gaps.
+description: Overview of WA’s animal welfare FOI timeline, structural vacuums, and democratic illusion.
 ---
 
 # WA Animal Welfare Transparency Archive
@@ -151,7 +151,7 @@ and understand how the illusion works.
 ---
 
 ## Findings So Far
-- **FOI1 → Result vacuum** — inspection data denied, then internally contradicted.  
+- **FOI1 → Result vacuum** — inspection data denied, then internally contradicted.
 - **FOI2 → Process vacuum** — no oversight records, no risk frameworks, no SOPs.  
   - IR2 confirmed: DPIRD’s search was *unreasonable and illogical*.  
   - ER2 filed to OIC.  
@@ -162,6 +162,34 @@ and understand how the illusion works.
 Oversight bodies now verify their own inertia:  
 OIC = time black hole → Ombudsman = “no jurisdiction” → Parliament = symbolic theatre.  
 **The oversight chain has collapsed by design.**
+
+---
+
+## 🧩 Analyses & Evidence
+
+These pages place the FOI evidence within its structural context —  
+how transparency became its own disguise,  
+and how the OIC was *starved into dysfunction.*
+
+- 🪞 [The Illusion of Democratic Oversight](/democratic-illusion)  
+  *How a transparent system becomes its own mask.*
+
+- 📉 [WA OIC: Systemic Resource Starvation (2002–2025)](/oic-starvation)  
+  *23 years of deliberate underfunding and predictable collapse.*
+
+---
+
+## 📚 Context & History
+
+To understand how this system evolved —  
+how promises repeated, language recycled, and accountability dissolved —  
+read these two historical mirrors:
+
+- ⚖️ [Official Claims vs. Reality](/contradictions)  
+  *What governments said about animal welfare — and what FOI records reveal.*
+
+- 🏛️ [25 Years of Legislative Theatre](/legislative-timeline)  
+  *A quarter century of debates that promised transparency, delivered silence.*
 
 ---
 
@@ -194,12 +222,15 @@ This archive exists to preserve that design in public record.
 ---
 
 ## Navigate
+
 - 📜 [Action Log](/action-log) – FOI cycles and institutional responses  
 - ⚖️ [Official Claims vs. Reality](/contradictions) – government statements vs. FOI findings  
-- 🏛️ [25 Years of Legislative Theatre](/legislative-theatre) – long-view pattern of promises and voids  
+- 🏛️ [25 Years of Legislative Theatre](/legislative-timeline) – long-view pattern of promises and voids  
+- 🧩 [The Illusion of Democratic Oversight](/democratic-illusion) – how transparency becomes its own disguise  
+- 📉 [WA OIC: Systemic Resource Starvation (2002–2025)](/oic-starvation) – 23 years of deliberate underfunding and collapse  
 - 📂 [Resources](/resources) – all source documents  
-- 🧭 [About](/about) – method & philosophy  
+- 🧭 [About](/about) – method & philosophy
 
 ---
 
-_Last updated: October 2025_
+_Last updated: November 2025_

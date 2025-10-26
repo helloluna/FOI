@@ -91,3 +91,22 @@ From **2030**, the rise of cultured meat may offer a technological exit from sys
 But a deeper reckoning lies further ahead.  
 
 **unseenbeings** translates this act of *seeing* into an archive, and entrusts it to the future.  
+
+---
+
+## Further Reading & Related Pages
+
+This archive connects philosophy with evidence.  
+The pages below expand each layer — from documented fact to structural analysis.
+
+- 📜 [Action Log](/action-log) — the chronological record of FOI requests, refusals, and institutional silence.  
+- 📂 [Downloads & Resources](/resources) — every document cited in this archive, available for verification.  
+- ⚖️ [Official Claims vs. Reality](/contradictions) — what government statements promised, and what FOI disclosures proved.  
+- 🏛️ [25 Years of Legislative Theatre](/legislative-timeline) — how political language repeated while implementation stood still.  
+- 🪞 [The Illusion of Democratic Oversight](/democratic-illusion) — the philosophy of how transparency becomes its own disguise.  
+- 📉 [WA OIC: Systemic Resource Starvation (2002–2025)](/oic-starvation) — the data proving deliberate underfunding and collapse.  
+
+> *The method is simple:*  
+> Record what exists.  
+> Preserve what is missing.  
+> Let the pattern speak for itself.

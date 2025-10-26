@@ -7,7 +7,7 @@ description: Timeline of FOI cycles, institutional nonresponse, and structural m
 
 # Action Log – WA Animal Welfare Transparency  
 **Maintained by Hanyu Liu**  
-_Last updated: October 2025_
+_Last updated: November 2025_
 
 This is a structural record — not of what was achieved,  
 but of what was attempted, requested, refused, and left undocumented.
@@ -86,6 +86,7 @@ but is legally shielded from transparency itself.
 
 | Date        | Institution | Event / Outcome                                                                 | Linked Document |
 |--------------|--------------|--------------------------------------------------------------------------------|-----------------|
+| 17 Sep 2025  | Auditor General (OAG) | Submission lodged; OAG notes the matter in its intelligence database but confirms **no audit action planned** | [OAG Reply](/resources/OAG_reply.pdf) |
 | 22 Jul 2025  | Ombudsman   | Complaint lodged against DPIRD for maladministration; Ombudsman replies it will **wait until OIC finishes** before acting | [Ombudsman Letter](/resources/Ombudsman_oic_deadlock.pdf) |
 | 25 Sep 2025  | Ombudsman   | New complaint lodged — focuses on **OIC’s indefinite delays and case allocation opacity** | [Complaint Form](/resources/OIC_Ombudsman_Complain_Form.pdf) |
 | 3 Oct 2025   | Ombudsman   | Formal reply: states **no jurisdiction to investigate OIC**, and DPIRD complaint remains on hold pending OIC outcome | [Ombudsman No Jurisdiction](/resources/ombudsman_no_oic.pdf) |
@@ -143,6 +144,9 @@ The agency proved it has no rules or risk controls for its own inspectors.
 | 25 Aug 2025 | ~ DPIRD acknowledges FOI3                                | [FOI3 Acknowledge](/resources/foi3_Acknowledge_letter.pdf) |
 | 13 Oct 2025 | ∅ Notice of Decision — no ministerial briefings, no inter-agency reporting | [Decision](/resources/Foi3_result.pdf) |
 | 14 Oct 2025 | ✓ Internal Review lodged (IR3)                           | [IR3 Application](/resources/ir3_application.pdf) |
+| 15 Oct 2025 | ✓ IR3 Acknowledgement received                           | [IR3 Acknowledge](/resources/ir3_ack.pdf) |
+| 24 Oct 2025 | ~ IR3 Extension Request from DPIRD                       | [IR3 Extension](/resources/ir3_extension.pdf) |
+
 
 ### 📝 FOI3 Summary
 
@@ -169,7 +173,7 @@ No upward reporting, no escalation, no record of responsibility.
 | Date        | Event                                                      | Linked Document |
 |--------------|------------------------------------------------------------|-----------------|
 | 12 Oct 2025  | ✓ FOI4 lodged – Recordkeeping, DI appointments, finances   | [FOI4 Application](/resources/Foi4.pdf) |
-| 13 Oct 2025→ | ~ Acknowledgement pending                                  | [FOI4 Pending](/resources/Foi4_future.pdf) |
+| 13 Oct 2025  | ✓ Acknowledgement received from DPIRD                      | [FOI4 Acknowledge](/resources/Foi4_ack.pdf) |
 
 ### 📝 FOI4 Summary
 
@@ -196,7 +200,7 @@ Even a refusal will prove the system cannot document itself.
 *Note: This log only covers accountability broadcasts to institutional nodes. One-on-one exchanges with NGOs or individuals are not archived.*
 
 ### 1. Government Oversight & Accountability  
-- WA FOI Commissioner (OIC)  
+- WA FOI Commissioner (OIC)
 - WA Ombudsman  
 - Office of the Auditor General (OAG)  
 - Public Administration Committee Secretariat  
@@ -205,7 +209,7 @@ Even a refusal will prove the system cannot document itself.
 - Animal Welfare Advisory Committee (AWAC)
 
 ### 2. Animal Welfare & Advocacy Organisations  
-- Animal Justice Party (AJP WA)  
+- Animal Justice Party (AJP WA)
 - Animals Australia  
 - RSPCA WA  
 - Anonymous for the Voiceless (Perth)  
@@ -215,7 +219,7 @@ Even a refusal will prove the system cannot document itself.
 - Voiceless
 
 ### 3. Media & Public Scrutiny  
-- ABC News  
+- ABC News
 - WA Today  
 - The West Australian  
 - The Guardian Australia  
@@ -235,6 +239,7 @@ Even a refusal will prove the system cannot document itself.
 ### 5. Broadcast Emails  
 - [FOI1 Broadcast – Parliament, NGOs, Media](/resources/Foi1_broadcast_email.pdf)  
 - [FOI2 Broadcast – Parliament, NGOs, Media](/resources/Foi2_broadcast_email.pdf)
+- [FOI3 Broadcast – Parliament, NGOs, Media](/resources/Foi3_broadcast_email.pdf)
 
 ---
 
@@ -246,7 +251,7 @@ Even a refusal will prove the system cannot document itself.
 ---
 
 ## 🧭 Forthcoming Cycles
-- **Cycle 5:** Minister’s Office FOI – briefings and correspondence on DI & AWAC (pending)  
+- **Cycle 5:** Minister’s Office FOI – briefings and correspondence on DI & AWAC (pending)
 - **Cycle 6:** Ombudsman complaint on OIC delays (planned)  
 - **Cycle 7:** Parliamentary committee briefings (drafting)  
 - **Archive Expansion:** visual timelines, cross-agency vacuum maps, systemic silence analytics.  
@@ -266,7 +271,7 @@ It is against the belief that animals can disappear without a trace.
 **FOI Request (Freedom of Information)**  
    ↓  
 **Agency Response**  
-   - **✓ Documents released**  
+   - **✓ Documents released**
    - **∅ "No documents" (Section 26)**  
    - **✖ Refused / Exempt**  
    - **~ Extension / Procedural delay**  

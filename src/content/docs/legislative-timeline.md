@@ -197,13 +197,13 @@ Bill shelved.
 - Minister’s media release claimed: *“Designated Inspectors will proactively monitor compliance and build public confidence in animal welfare standards.”*  
 
 📄 [Government Media Statement – Trespass & DI Powers (2023)](/resources/2023_bill_web.pdf)  
-📄 [DPIRD FAQ – “Designated Inspectors” (2023)](/resources/faq_animal_welfare_trespass_legislation_2023.pdf)
+📄 [DPIRD FAQ – “Designated Inspectors” (2023)](/resources/FAQ-Animal_Welfare_and_Trespass_Legislation.pdf)
 
 ---
 
 ### 🕳️ FOI Reality (FOI1, May 2025)
 **DPIRD Notice of Decision (30 May 2025):**  
-- ∅ No Standard Operating Procedures for Designated Inspectors  
+- ∅ No Standard Operating Procedures for Designated Inspectors
 - ∅ No training materials, records, or evaluation documents  
 - ∅ No proactive inspection data held from 2022–2025, other than a single ad hoc spreadsheet created for the request  
 
@@ -223,7 +223,7 @@ What was sold as transparency was, in fact, theatre.
 - To supervise **inspector training and competency standards**  
 - To deliver **annual reports** to the Minister on welfare oversight  
 
-📄 [AWAC Terms of Reference (2021)](/resources/terms_of_reference_awac.pdf)
+📄 [AWAC Terms of Reference (2021)](/resources/Terms_of_Reference_AWAC_WA.pdf)
 
 > *“The AWAC will advise the Minister...on the development and implementation of standards relevant to training and competency assessment of appointed inspectors under the Act.”*  
 > *(AWAC Terms of Reference, Section 2.1)*

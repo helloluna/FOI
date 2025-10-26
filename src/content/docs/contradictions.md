@@ -27,7 +27,7 @@ Each follows the same pattern:
 >  
 > “AWAC will provide an annual report to the Minister by 31 October …”
 
-📄 [AWAC Terms of Reference](/resources/terms_of_reference_awac.pdf)
+📄 [AWAC Terms of Reference](/resources/Terms_of_Reference_AWAC_WA.pdf)
 
 ---
 
@@ -49,7 +49,7 @@ Each follows the same pattern:
 **Source:** DPIRD FAQ – *Animal Welfare and Trespass Legislation Changes*  
 > “Designated inspectors have received **extensive training** … DPIRD ensures that all inspectors are appropriately skilled, trained and supported … a **risk-based, proactive inspection regime** will monitor compliance.”
 
-📄 [DPIRD FAQ (2023)](/resources/faq_animal_welfare_trespass_legislation_2023.pdf)
+📄 [DPIRD FAQ (2023)](/resources/FAQ-Animal_Welfare_and_Trespass_Legislation.pdf)
 
 ---
 
@@ -94,7 +94,7 @@ Each follows the same pattern:
 > “Animal advocates will no longer be able to use lack of transparency … The Amending Act enables a **proactive modern compliance regime**.”  
 
 📄 [Government Media Statement (2023)](/resources/2023_bill_web.pdf)  
-📄 [DPIRD FAQ (2023)](/resources/faq_animal_welfare_trespass_legislation_2023.pdf)
+📄 [DPIRD FAQ (2023)](/resources/FAQ-Animal_Welfare_and_Trespass_Legislation.pdf)
 
 ---
 
@@ -112,7 +112,7 @@ Each follows the same pattern:
 ### 📘 Official Promise (2023)
 > “The operation of a **modern and effective compliance monitoring regime** requires designated inspectors to enter at any time.”  
 
-📄 [DPIRD FAQ (2023)](/resources/faq_animal_welfare_trespass_legislation_2023.pdf)
+📄 [DPIRD FAQ (2023)](/resources/FAQ-Animal_Welfare_and_Trespass_Legislation.pdf)
 
 ---
 
@@ -137,6 +137,52 @@ Not failure — **deliberate non-implementation disguised as reform.**
 
 **Trade-off sold:** Citizens lose right to document → Government provides oversight.  
 **Trade-off delivered:** Citizens criminalized → Oversight non-existent.
+
+---
+
+## 🧮 Contradiction 6 — FOI’s Promise of Participation vs. Reality of Withholding
+
+### 📘 Official Promise (Section 3 of the Freedom of Information Act 1992 (WA))
+> “The objects of this Act are to —  
+> (a) enable the public to **participate more effectively in governing the State**; and  
+> (b) make persons and bodies responsible for State and local government **more accountable to the public**.”
+
+📄 [Freedom of Information Act 1992 (WA)](/resources/FOI_Act_1992.pdf)
+
+---
+
+### 🕳️ FOI Reality (2002 – 2025)
+
+- Processing time for external reviews rose from **95 days → 388 days**.  
+- Average backlog up **190 %** (official OIC Annual Reports 2002–2025).  
+- 2023–24 OIC Annual Report acknowledges “considerable backlog and resourcing issues.” 📄 [OIC Annual Report 2023–24](/resources/oic-annual-report-2023-2024.pdf)  
+- In 2025, citizens filing an FOI with the OIC itself were told the Act **does not apply to the OIC** ( Schedule 2 exemption ). 📄 [OIC FOI Refusal Letter](/resources/Oic_foi.pdf)
+
+**Finding:**  
+The law promises public participation and accountability;  
+the process delivers delay and denial.  
+FOI has become a **ritual of opacity performed in the language of openness**.
+
+---
+
+## 🧩 Contradiction 7 — OIC’s Self-Image of Fairness vs. Its Legal Immunity
+
+### 📘 Official Claim (Annual Report 2023–24, Foreword)
+> “The Office of the Information Commissioner promotes **fair, independent and transparent** external review of FOI decisions and ensures accountability across government.”
+
+📄 [OIC Annual Report 2023–24](/resources/oic-annual-report-2023-2024.pdf)
+
+---
+
+### 🕳️ FOI Reality (September – October 2025)
+- OIC admits **no written case allocation policy** and **no chronological triage**. 📄 [Clarification Request Letter](/resources/OIC_Clarification_Requested_Case_Assignment_Protocol.pdf)  
+- When asked for these documents through FOI, OIC **refused access entirely**, citing **Schedule 2 exemption**. 📄 [OIC FOI Refusal Letter](/resources/Oic_foi.pdf)  
+- Ombudsman WA confirmed it **has no jurisdiction to investigate the OIC**. 📄 [Ombudsman Refusal Letter](/resources/ombudsman_no_oic.pdf)
+
+**Finding:**  
+The oversight body responsible for transparency is legally opaque.  
+It cannot be examined under FOI and cannot be investigated by the Ombudsman.  
+The claim of “independent fairness” is structurally unenforceable.
 
 ---
 

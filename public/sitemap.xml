@@ -1,34 +1,8 @@
 import { defineConfig } from 'astro/config';
-import sitemap from '@astrojs/sitemap';
 import starlight from '@astrojs/starlight';
-import fg from 'fast-glob';
-import fs from 'node:fs';
-import path from 'node:path';
-
-// 基础站点域名（很重要，sitemap 的绝对 URL 用它）
-const SITE = 'https://unseenbeings.org';
-
-// 构建时间（ISO）
-const BUILD_TIME = new Date().toISOString();
-
-// 自动收集 /public/resources 下所有 PDF 路径
-// 生成绝对 URL & 记录每个 PDF 的 mtime，供 sitemap.lastmod 使用
-const pdfFiles = await fg('public/resources/**/*.pdf');
-const pdfUrlAndMtime = pdfFiles.map((p) => {
-  const stat = fs.statSync(p);
-  const url = `${SITE}/${p.replace(/^public\//, '')}`;
-  return { url, mtime: stat.mtime.toISOString(), pathname: `/${p.replace(/^public\//, '')}` };
-});
-
-// 方便在 serialize() 里查找 mtime
-const pdfMtimeMap = new Map(pdfUrlAndMtime.map(({ pathname, mtime }) => [pathname, mtime]));
-
-// 供 @astrojs/sitemap 的 customPages 使用
-const customPdfPages = pdfUrlAndMtime.map(({ url }) => url);
+import sitemap from '@astrojs/sitemap';
 
 export default defineConfig({
-  site: SITE,
-
   integrations: [
     starlight({
       title: 'WA Animal Welfare Transparency',
@@ -49,38 +23,19 @@ export default defineConfig({
             { label: 'Official Claims vs. Reality', link: '/contradictions' },
           ],
         },
+        {
+          label: 'Analyses & Evidence',
+          items: [
+            { label: 'The Illusion of Democratic Oversight', link: '/democratic-illusion' },
+            { label: 'WA OIC: Systemic Resource Starvation (2002–2025)', link: '/oic-starvation' },
+          ],
+        },
       ],
       customCss: ['./src/styles/starlight.css'],
     }),
-
-    // 自动 Sitemap
     sitemap({
-      // 自动把 PDF 也加入（页面会自动被扫描；静态 PDF 通过 customPages 注入）
-      customPages: customPdfPages,
-
-      // 过滤掉 404 等不需要的路由
-      filter: (page) => !page.pathname.includes('404'),
-
-      // 统一设置 lastmod / priority（页面=构建时间；PDF=文件 mtime）
-      serialize(item) {
-        const isPage = !item.pathname.includes('.') || item.pathname.endsWith('/');
-        const isPDF = item.pathname.endsWith('.pdf');
-
-        // lastmod：页面用构建时间；PDF 用真实 mtime；其它忽略
-        const lastmod = isPDF
-          ? (pdfMtimeMap.get(item.pathname) ?? BUILD_TIME)
-          : (isPage ? BUILD_TIME : undefined);
-
-        if (isPage || isPDF) {
-          return {
-            ...item,
-            lastmod,
-            changefreq: isPage ? 'monthly' : 'yearly',
-            priority: isPage ? 0.8 : 0.6,
-          };
-        }
-        return null;
-      },
+      // ✅ Fix Netlify build error by ensuring safe URL access
+      filter: (page) => typeof page?.url === 'string',
     }),
   ],
 });
