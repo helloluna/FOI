@@ -140,7 +140,7 @@ Each document is a structural artifact:
 
 ---
 
-## 📘 WA OIC Longitudinal Data (2000–2025)
+## 📘 WA OIC Longitudinal Data (2000–2025) {#oic-annual-reports}
 > *Twenty-three years of budget, staffing, and backlog data — the anatomy of systemic starvation.*
 
 ### 🗂 OIC Annual Reports
@@ -169,7 +169,7 @@ Each document is a structural artifact:
 ✓ [2023–2024](/resources/oic-annual-report-2023-2024.pdf)  
 ✓ [2024–2025](/resources/oic-annual-report-2024-2025.pdf)  
 
-### 💰 WA State Budget Papers – Information Commissioner
+### 💰 WA State Budget Papers – Information Commissioner {#oic-budget-data}
 ✓ [2015–16 Budget Paper No.2 Vol.2](/resources/2015-16-wa-state-budget_bp2_vol2.pdf)  
 ✓ [2016–17 Budget Paper No.2 Vol.2](/resources/2016-17-wa-state-budget_bp2_vol2.pdf)  
 ✓ [2017–18 Budget Paper No.2 Vol.2](/resources/2017-18-wa-state-budget_bp2_vol2.pdf)  
