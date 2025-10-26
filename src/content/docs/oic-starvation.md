@@ -16,9 +16,9 @@ In short, this is not *administrative failure* — it is *policy design.*
 
 **Primary Sources**  
 - *OIC Annual Reports* (2000–2025)  
-  → [Full archive of OIC Annual Reports](resources#-oic-annual-reports)  
+  → [Full archive of OIC Annual Reports](/resources#oic-annual-reports)  
 - *WA State Budget Papers* – Budget Paper No.2 (2015–2025)  
-  → [Budget Data – Information Commissioner](resources#-wa-state-budget-papers--information-commissioner)
+  → [Budget Data – Information Commissioner](/resources#oic-budget-data)
 - *Comparative Studies:*  
   - [The Operation of Commonwealth FOI Laws (2018)](/resources/TheoperationofCommonwealthFreedomofInformation(FOI)laws.pdf)  
   - [P1342: Nothing to See Here – Australia’s Broken FOI System (2024)](/resources/P1342-Nothing-to-see-here-Australias-broken-FOI-system-WEB.pdf)
@@ -64,7 +64,7 @@ In short, this is not *administrative failure* — it is *policy design.*
 | Real Budget | Flat | Stagnant/slightly down | Late corrective rise |
 | FTE | Gradual growth | ↓ (11→10) | ↑ (14→19) |
 
-*Source: [OIC Annual Reports 2002–2025](resources#-oic-annual-reports), [WA Budget Papers](resources#-wa-state-budget-papers--information-commissioner).*
+*Source: [OIC Annual Reports 2002–2025](/resources#oic-annual-reports), [WA Budget Papers](/resources#oic-budget-data).*
 
 ---
 
@@ -159,9 +159,9 @@ a system kept too weak to perform, yet too visible to die.
 ## 📚 Sources
 
 - *OIC Annual Reports 2002–2025*  
-  → [Full archive of OIC Annual Reports](resources#-oic-annual-reports)
+  → [Full archive of OIC Annual Reports](/resources#oic-annual-reports)
 - *WA State Budget Papers 2015–2025*  
-  → [WA State Budget Papers (2015–2025)](resources#-wa-state-budget-papers--information-commissioner)
+  → [WA State Budget Papers (2015–2025)](/resources#oic-budget-data)
 - *P1342: Nothing to See Here – Australia’s Broken FOI System (The Australia Institute, 2024)*  
   → [/resources/P1342-Nothing-to-see-here-Australias-broken-FOI-system-WEB.pdf](/resources/P1342-Nothing-to-see-here-Australias-broken-FOI-system-WEB.pdf)
 - *The Operation of Commonwealth FOI Laws (Senate Report, 2023)*  
