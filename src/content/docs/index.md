@@ -163,6 +163,8 @@ Oversight bodies now verify their own inertia:
 OIC = time black hole → Ombudsman = “no jurisdiction” → Parliament = symbolic theatre.  
 **The oversight chain has collapsed by design.**
 
+→ See full chronology in the [Action Log](/action-log).
+
 ---
 
 ## 🧩 Analyses & Evidence

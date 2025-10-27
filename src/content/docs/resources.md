@@ -77,18 +77,20 @@ Each document is a structural artifact:
 - ✓ [OAG Reply – Scope Clarification](/resources/OAG_reply.pdf)
 - ✓ [OIC-Ombudsman Complaint Form](/resources/OIC_Ombudsman_Complain_Form.pdf)  
 - ~ [Ombudsman Deadlock Reply](/resources/Ombudsman_oic_deadlock.pdf)  
-- ∅ [Ombudsman Refusal to Investigate OIC – 3 Oct 2025](/resources/ombudsman_no_oic.pdf)  
+- ∅ [Ombudsman Refusal to Investigate OIC – 3 Oct 2025](/resources/ombudsman_no_oic.pdf)
+- ~ [Ombudsman No Reply – 9 Oct 2025](/resources/Ombudsman_noreply.pdf)  
 
 ---
 
 ## 📨 Political & Committee Responses
 - ✓ [Broadcast Email FOI1 – Parliament, NGOs, Media](/resources/Foi1_broadcast_email.pdf)
 - ✓ [Broadcast Email FOI2 – Parliament, NGOs, Media](/resources/Foi2_broadcast_email.pdf)
-- ✓ [FOI3 Broadcast Email – Parliament, NGOs, Media](/resources/Foi3_broadcast_email.pdf)
+- ✓ [Broadcast Email FOI3 – Parliament, NGOs, Media](/resources/Foi3_broadcast_email.pdf)
 - ~ [Minister Jarvis Office – Referral Only](/resources/JarvisEmptyReply.pdf)  
 - ~ [Public Administration Committee – 11 June 2025](/resources/pac-reply.pdf)  
 - ✓ [Jess Beckerling (Greens WA) – Personal Reply](/resources/Jess-reply.pdf)  
 - ~ [MP Sandra Carr Office – 4 July 2025](/resources/Sandra-reply.pdf)  
+- ✓ [Financial Committee Reply – 16 Oct 2025](/resources/Financial_committee_reply.pdf)
 
 ---
 
@@ -140,7 +142,7 @@ Each document is a structural artifact:
 
 ---
 
-## 📘 WA OIC Longitudinal Data (2000–2025) {#oic-annual-reports}
+## 📘 WA OIC Longitudinal Data (2000–2025)
 > *Twenty-three years of budget, staffing, and backlog data — the anatomy of systemic starvation.*
 
 ### 🗂 OIC Annual Reports
@@ -169,7 +171,7 @@ Each document is a structural artifact:
 ✓ [2023–2024](/resources/oic-annual-report-2023-2024.pdf)  
 ✓ [2024–2025](/resources/oic-annual-report-2024-2025.pdf)  
 
-### 💰 WA State Budget Papers – Information Commissioner {#oic-budget-data}
+### 💰 WA State Budget Papers – Information Commissioner
 ✓ [2015–16 Budget Paper No.2 Vol.2](/resources/2015-16-wa-state-budget_bp2_vol2.pdf)  
 ✓ [2016–17 Budget Paper No.2 Vol.2](/resources/2016-17-wa-state-budget_bp2_vol2.pdf)  
 ✓ [2017–18 Budget Paper No.2 Vol.2](/resources/2017-18-wa-state-budget_bp2_vol2.pdf)  

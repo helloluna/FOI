@@ -198,6 +198,10 @@ It is **architected illusion** — a fraud of governance where:
 If a private entity made claims this false to secure advantage, it would be **fraud**.  
 Here, it is policy.
 
+**The contradictions extend beyond animal welfare.**  
+The same structure governs the very system that claims to guarantee transparency.  
+→ See also: [The Illusion of Democratic Oversight](/democratic-illusion)
+
 ---
 
 > **Archival Note**  

@@ -19,8 +19,13 @@ export default defineConfig({
           items: [
             { label: 'Action Log', link: '/action-log' },
             { label: 'Downloads & Resources', link: '/resources' },
-            { label: '25 Years of Legislative Theatre', link: '/legislative-timeline' },
+          ],
+        },
+        {
+          label: 'Context & History',
+          items: [
             { label: 'Official Claims vs. Reality', link: '/contradictions' },
+            { label: '25 Years of Legislative Theatre', link: '/legislative-timeline' },
           ],
         },
         {
@@ -34,6 +39,7 @@ export default defineConfig({
       customCss: ['./src/styles/starlight.css'],
     }),
     sitemap({
+      // ✅ ensure safe URL access during Netlify builds
       filter: (page) => typeof page?.url === 'string',
     }),
   ],

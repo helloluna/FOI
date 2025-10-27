@@ -89,13 +89,19 @@ but is legally shielded from transparency itself.
 | 17 Sep 2025  | Auditor General (OAG) | Submission lodged; OAG notes the matter in its intelligence database but confirms **no audit action planned** | [OAG Reply](/resources/OAG_reply.pdf) |
 | 22 Jul 2025  | Ombudsman   | Complaint lodged against DPIRD for maladministration; Ombudsman replies it will **wait until OIC finishes** before acting | [Ombudsman Letter](/resources/Ombudsman_oic_deadlock.pdf) |
 | 25 Sep 2025  | Ombudsman   | New complaint lodged — focuses on **OIC’s indefinite delays and case allocation opacity** | [Complaint Form](/resources/OIC_Ombudsman_Complain_Form.pdf) |
-| 3 Oct 2025   | Ombudsman   | Formal reply: states **no jurisdiction to investigate OIC**, and DPIRD complaint remains on hold pending OIC outcome | [Ombudsman No Jurisdiction](/resources/ombudsman_no_oic.pdf) |
+| 3 Oct 2025   | Ombudsman   | Formal notice: **no jurisdiction to investigate OIC**, and DPIRD complaint placed on indefinite hold | [Ombudsman No Jurisdiction](/resources/ombudsman_no_oic.pdf) |
+| 9 Oct 2025   | Ombudsman   | No further reply confirming the **jurisdictional deadlock** — OIC exempt, Ombudsman waiting on OIC, DPIRD untouched | [Ombudsman No Reply](/resources/Ombudsman_noreply.pdf) |
+| 16 Oct 2025  | Estimates & Financial Operations Committee | Acknowledged evidence of DPIRD funding irregularities; **no follow-up recorded** | [Financial Committee Reply](/resources/Financial_committee_reply.pdf) |
+| 22 Oct 2025  | Public Administration Committee | Acknowledged receipt; **further discussion suppressed from publication (archived privately)** |
 
 **Structural meaning:**  
 OIC = **time black hole**  
 Ombudsman = **jurisdictional void**  
+Parliament = **symbolic containment**  
 OAG = **non-intervention**  
 Together = **oversight deadlock confirmed.**
+
+The Ombudsman correspondence confirms that because OIC is exempt under *Schedule 1, clause 2* of the *Parliamentary Commissioner Act 1971 (WA)*, it **cannot be investigated**, and since DPIRD’s FOI remains before the OIC, **the Ombudsman will not act on DPIRD either** — a closed circuit of procedural deferral.
 
 ---
 
@@ -246,7 +252,9 @@ Even a refusal will prove the system cannot document itself.
 ### 📥 Responses Received
 - [Jess Beckerling (Greens WA)](/resources/Jess-reply.pdf)  
 - [Public Administration Committee Secretariat](/resources/pac-reply.pdf)  
-- [Office of Sandra Carr MLC](/resources/Sandra-reply.pdf)  
+- [Office of Sandra Carr MLC](/resources/Sandra-reply.pdf)
+- [Estimates & Financial Operations Committee Secretariat](/resources/Financial_committee_reply.pdf)
+- Public Administration Committee Secretariat — acknowledged receipt **without commitment or timeline**; follow-up discussion **suppressed from publication** and likely **indefinitely archived**, so the original correspondence **cannot be publicly released.**
 
 ---
 
