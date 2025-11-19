@@ -152,7 +152,8 @@ The agency proved it has no rules or risk controls for its own inspectors.
 | 14 Oct 2025 | ✓ Internal Review lodged (IR3)                           | [IR3 Application](/resources/ir3_application.pdf) |
 | 15 Oct 2025 | ✓ IR3 Acknowledgement received                           | [IR3 Acknowledge](/resources/ir3_ack.pdf) |
 | 24 Oct 2025 | ~ IR3 Extension Request from DPIRD                       | [IR3 Extension](/resources/ir3_extension.pdf) |
-
+| 7 Nov 2025  | ✖ Internal Review Decision (IR3) issued – confirms narrow search & declines expansion | [IR3 Decision](/resources/Ir3.pdf) |
+| 9 Nov 2025  | ✓ External Review Application lodged for FOI3 (ER3)      | [ER3 Application](/resources/Er3.pdf) |
 
 ### 📝 FOI3 Summary
 
@@ -180,6 +181,7 @@ No upward reporting, no escalation, no record of responsibility.
 |--------------|------------------------------------------------------------|-----------------|
 | 12 Oct 2025  | ✓ FOI4 lodged – Recordkeeping, DI appointments, finances   | [FOI4 Application](/resources/Foi4.pdf) |
 | 13 Oct 2025  | ✓ Acknowledgement received from DPIRD                      | [FOI4 Acknowledge](/resources/Foi4_ack.pdf) |
+| 31 Oct 2025 | ✓ Applicant-initiated scope clarification to prevent s.20 refusal                    | [FOI4 Scope Clarification Email](/resources/Foi4_scope_narrow_email.pdf) |
 
 ### 📝 FOI4 Summary
 
@@ -196,6 +198,31 @@ FOI4 = **Compliance vacuum.**
 Tests whether the Department follows its own recordkeeping laws.  
 Even a refusal will prove the system cannot document itself.  
 **Status:** ⏳ Awaiting agency response.  
+
+---
+
+## 🔁 Cycle 5 – FOI5: Minister’s Office Oversight (AWAC & DI Governance)
+*A vertical test of ministerial knowledge — whether oversight exists at the top of the chain.*
+
+### 📅 FOI5 – Timeline
+
+| Date        | Event                                                    | Linked Document |
+|-------------|----------------------------------------------------------|-----------------|
+| 11 Nov 2025 | ✓ FOI5 lodged to Minister’s Office – AWAC reports, DI governance briefings, ministerial oversight | [FOI5 Application](/resources/foi5.pdf) |
+
+### 📝 FOI5 Summary
+
+**What was asked:**  
+Whether the Minister holds:  
+- AWAC annual reports (required under ToR cl.5.1 — see [AWAC Terms of Reference](/resources/Terms_of_Reference_AWAC_WA.pdf))
+- DI governance briefings  
+- Any ministerial-level oversight records (2022–present)
+
+**Structural meaning:**  
+FOI5 = **Ministerial Oversight Vacuum**  
+Tests whether the top tier of government possesses any trace of the missing systems found in FOI1–FOI4.
+
+**Status:** ⏳ Awaiting acknowledgement and decision.
 
 ---
 
@@ -255,6 +282,7 @@ Even a refusal will prove the system cannot document itself.
 - [Office of Sandra Carr MLC](/resources/Sandra-reply.pdf)
 - [Estimates & Financial Operations Committee Secretariat](/resources/Financial_committee_reply.pdf)
 - Public Administration Committee Secretariat — acknowledged receipt **without commitment or timeline**; follow-up discussion **suppressed from publication** and likely **indefinitely archived**, so the original correspondence **cannot be publicly released.**
+- [Parliamentary Reply re FOI3 (Oct 2025)](/resources/foi3_parliament_reply.pdf)
 
 ---
 

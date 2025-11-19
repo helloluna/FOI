@@ -40,7 +40,8 @@ Each document is a structural artifact:
 - ✓ [OIC FOI Application (Case F2025236)](/resources/oic_foi_application.pdf)  
 - ~ [OIC Clarification Request – Case Assignment Protocol](/resources/OIC_Clarification_Requested_Case_Assignment_Protocol.pdf)  
 - ✓ [OIC FOI Exemption Document](/resources/Oic_foi.pdf)  
-- ✓ [External Review Application & Acknowledgement – FOI2025-017 (2 October 2025)](/resources/Er2.pdf)  
+- ✓ [External Review Application & Acknowledgement – FOI2025-017 (2 October 2025)](/resources/Er2.pdf)
+- ✓ [FOI4 Scope Clarification Email – 31 October 2025](/resources/Foi4_scope_narrow_email.pdf)  
 
 ---
 
@@ -63,13 +64,21 @@ Each document is a structural artifact:
 - ∅ [FOI3 Notice of Decision – 13 October 2025](/resources/Foi3_result.pdf)
 - ✓ [Internal Review Application (IR3) – 14 October 2025](/resources/ir3_application.pdf)
 - ✓ [IR3 Acknowledgement – 15 October 2025](/resources/ir3_ack.pdf)  
-- ~ [IR3 Extension Request – 24 October 2025](/resources/ir3_extension.pdf)  
+- ~ [IR3 Extension Request – 24 October 2025](/resources/ir3_extension.pdf) 
+- ✖ [IR3 Internal Review Decision – 7 November 2025](/resources/Ir3.pdf)
+- ✓ [External Review Application (ER3) – 9 November 2025](/resources/Er3.pdf)
 
 ---
 
 ### FOI 4 – Recordkeeping, Legal Authority & Financial Accountability
 - ✓ [FOI4 Application Form – 12 October 2025](/resources/Foi4.pdf) 
-- ✓ [FOI4 Acknowledgement Letter – 13 October 2025](/resources/Foi4_ack.pdf)  
+- ✓ [FOI4 Acknowledgement Letter – 13 October 2025](/resources/Foi4_ack.pdf)
+- ✓ [FOI4 Scope Clarification Email – 31 October 2025](/resources/Foi4_scope_narrow_email.pdf)  
+
+---
+
+### FOI 5 – Ministerial Oversight & AWAC Accountability
+- ✓ [FOI5 Application Form – 11 November 2025](/resources/foi5.pdf)
 
 ---
 
@@ -91,6 +100,7 @@ Each document is a structural artifact:
 - ✓ [Jess Beckerling (Greens WA) – Personal Reply](/resources/Jess-reply.pdf)  
 - ~ [MP Sandra Carr Office – 4 July 2025](/resources/Sandra-reply.pdf)  
 - ✓ [Financial Committee Reply – 16 Oct 2025](/resources/Financial_committee_reply.pdf)
+- ✓ [Parliamentary Reply re FOI3 Submission – 26 October 2025](/resources/foi3_parliament_reply.pdf)
 
 ---
 

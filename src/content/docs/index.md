@@ -151,12 +151,25 @@ and understand how the illusion works.
 ---
 
 ## Findings So Far
-- **FOI1 → Result vacuum** — inspection data denied, then internally contradicted.
-- **FOI2 → Process vacuum** — no oversight records, no risk frameworks, no SOPs.  
-  - IR2 confirmed: DPIRD’s search was *unreasonable and illogical*.  
-  - ER2 filed to OIC.  
-- **FOI3 → Accountability vacuum** — tests whether silence reaches ministers and integrity bodies.  
-- **Ombudsman (Sept 2025)** → formally refused to investigate OIC delays.  
+**FOI1 → Result Vacuum**  
+Inspection and enforcement outcomes could not be produced; the internal review later contradicted the original denial.
+
+**FOI2 → Process Vacuum**  
+No oversight records, no risk assessments, no compliance frameworks.  
+IR2 upheld the emptiness; ER2 filed.
+
+**FOI3 → Accountability Vacuum**  
+No ministerial briefings, no escalation to OAG/Ombudsman, no internal risk memos since 2022.  
+IR3 confirmed total silence; ER3 filed.
+
+**FOI4 → System Structure Vacuum**  
+No legal-authority logs, no record‑keeping frameworks, no financial delegations for inspectorate functions.
+
+**FOI5 → Ministerial Oversight Vacuum**  
+Testing whether the Minister holds AWAC reports, DI governance briefings, or any statutory oversight records.
+
+**Ombudsman (Sept 2025)**  
+Formally refused jurisdiction over OIC delays, completing the oversight deadlock.
 
 **Outcome:**  
 Oversight bodies now verify their own inertia:  
