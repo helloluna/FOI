@@ -1,157 +1,139 @@
-/* starlight.css —— 全站柔和无衬线风格 & sidebar美化 */
+/* ---------------------------------------------------------
+   unseenbeings.org – Starlight Theme (Full)
+   Light = 纸质档案馆 · Dark = 夜间阅览室
+---------------------------------------------------------- */
+
+/* ========= 基础变量（Light Mode） ========= */
 :root {
-  --sl-font-body: "Helvetica Neue", Helvetica, Arial, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
-  --sl-font-heading: "Helvetica Neue", Helvetica, Arial, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
-  --sl-color-text: #202122;
-  --sl-color-background: #fcf9f2;
-  --sl-color-brand: #990000;
-  --sl-color-link: var(--sl-color-brand);
-  --sl-color-link-hover: #7c0000;
-  --sl-color-border: #e0dcd2;
-  --sl-content-width: 45rem;
-  --sl-line-height: 1.85;
-  --sl-space-block: 2.2rem;
-}
+  --sl-font-body: "Inter", "Helvetica Neue", Arial, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
+  --sl-font-heading: "Inter", "Helvetica Neue", Arial, sans-serif;
 
-/* 全站正文、标题字体都 Helvetica */
-body, h1, h2, h3, h4, h5, h6, nav, .sl-sidebar, .sl-markdown, input, button {
-  font-family: var(--sl-font-body);
-}
+  --sl-color-text: #231f1a;
+  --sl-color-background: #fcf9f2;   /* 米白纸 */
+  --sl-color-brand: #990000;        /* 玫瑰红 */
 
-/* 正文 */
-body {
-  background: var(--sl-color-background);
-  color: var(--sl-color-text);
-  line-height: var(--sl-line-height);
-  letter-spacing: 0.01em;
-}
-
-/* 标题 */
-h1, h2, h3, h4 {
-  color: var(--sl-color-brand);
-  font-weight: 700;
-  margin-top: var(--sl-space-block);
-  margin-bottom: 1rem;
-}
-h1 { font-size: 2.4rem; }
-h2 { font-size: 1.7rem; }
-h3 { font-size: 1.28rem; }
-
-/* 段落与区块间距 */
-p, ul, ol, table, blockquote, .sl-markdown > * {
-  margin-bottom: 1.35em;
-  margin-top: 0.2em;
-}
-section, .sl-markdown > * + * {
-  margin-top: var(--sl-space-block);
-}
-
-/* 链接 */
-a {
-  color: var(--sl-color-link);
-  border-bottom: 1px dotted var(--sl-color-link);
-  text-decoration: none;
-  transition: color 0.15s;
-}
-a:hover {
-  color: var(--sl-color-link-hover);
-  border-bottom-color: var(--sl-color-link-hover);
-}
-
-/* 引用 */
-blockquote {
-  border-left: 4px solid var(--sl-color-border);
-  background: rgba(224, 220, 210, 0.3);
-  padding: 1.15rem 1.6rem;
-  font-style: italic;
-  margin: var(--sl-space-block) 0;
-}
-
-/* 表格 */
-table {
-  border-collapse: collapse;
-  width: 100%;
-  margin: var(--sl-space-block) 0;
-}
-th, td {
-  border: 1px solid var(--sl-color-border);
-  padding: 0.7rem 1rem;
-  text-align: left;
-}
-thead th {
-  background: rgba(153,0,0,0.08);
-}
-
-/* Sidebar 优化：淡红高亮，无虚线 */
-
-
-.sl-sidebar ul {
-  border: none !important;
-}
-.sl-sidebar li {
-  border-bottom: 1px dotted #e4dad2 !important;
-}
-.sl-sidebar li:last-child {
-  border-bottom: none !important;
-}
-.sl-sidebar a {
-  font-family: var(--sl-font-body);
-  color: var(--sl-color-brand);
-  border: none;
-  background: none;
-}
-.sl-sidebar a.active,
-.sl-sidebar .active > a {
-  background: #f9e2e2 !important;
-  color: var(--sl-color-brand) !important;
-  font-weight: bold;
-}
-
-@media (max-width: 700px) {
-  body {
-    padding: 1.1rem 0.5rem;
-  }
-}
-
-:root {
-  --sl-font-body: 'Inter', 'Segoe UI', 'Helvetica Neue', Arial, 'Noto Sans', 'Nunito', sans-serif;
-  --sl-font-heading: 'Inter', 'Segoe UI', 'Helvetica Neue', Arial, 'Noto Sans', 'Nunito', sans-serif;
-
-  --sl-color-text: #23201a;
-  --sl-color-background: #fcf9f2;
-  --sl-color-brand: #990000;    /* 玫瑰红 */
   --sl-color-link: #990000;
   --sl-color-link-hover: #7c0000;
+
   --sl-color-border: #e0dcd2;
   --sl-content-width: 45rem;
+
+  --sl-line-height: 1.78;
 }
 
-/* 全站正文与导航区域都统一用无衬线体 */
-body, .sl-root, .sl-markdown, nav, .sl-sidebar {
+/* ========= Dark Mode 变量 ========= */
+:root[data-theme="dark"] {
+  --sl-color-text: #f4f1eb;         /* 柔米白字 */
+  --sl-color-background: #1c1b19;   /* 深咖底 */
+  --sl-color-brand: #ffb3b3;        /* 柔粉红标题 */
+  --sl-color-link: #e8bfbf;
+  --sl-color-link-hover: #ffdddd;
+  --sl-color-border: #4a433e;
+}
+
+/* ========= 全局文字 & 布局 ========= */
+body,
+.sl-root,
+.sl-markdown,
+nav,
+.sl-sidebar {
   font-family: var(--sl-font-body) !important;
   font-size: 1.07rem;
   font-weight: 400;
   background: var(--sl-color-background);
   color: var(--sl-color-text);
-  line-height: 1.75;
-  letter-spacing: .2px;
+  line-height: var(--sl-line-height);
+  letter-spacing: 0.2px;
+  margin: 0;
 }
 
-/* 标题（h1/h2/h3）—— 用无衬线体/加一点间距/柔和主色 */
-h1, h2, h3, .sl-markdown h1, .sl-markdown h2, .sl-markdown h3 {
+.sl-markdown {
+  padding-block: 2rem;
+  margin-inline: auto;
+  max-width: var(--sl-content-width);
+}
+
+/* ========= 标题 ========= */
+h1,
+h2,
+h3,
+.sl-markdown h1,
+.sl-markdown h2,
+.sl-markdown h3 {
   color: var(--sl-color-brand);
   font-family: var(--sl-font-heading) !important;
   font-weight: 600;
   margin-top: 2.1rem;
   margin-bottom: 1.2rem;
-  letter-spacing: .1px;
+  letter-spacing: 0.1px;
 }
 
-h1, .sl-markdown h1 { font-size: 2.3rem; }
-h2, .sl-markdown h2 { font-size: 1.5rem; }
-h3, .sl-markdown h3 { font-size: 1.17rem; }
+h1,
+.sl-markdown h1 { font-size: 2.3rem; }
 
-/* 侧栏分区标题加深色/加大字重 */
+h2,
+.sl-markdown h2 { font-size: 1.5rem; }
+
+h3,
+.sl-markdown h3 { font-size: 1.17rem; }
+
+/* Dark mode 标题稍微更亮一点 */
+:root[data-theme="dark"] h1,
+:root[data-theme="dark"] h2,
+:root[data-theme="dark"] h3,
+:root[data-theme="dark"] .sl-markdown h1,
+:root[data-theme="dark"] .sl-markdown h2,
+:root[data-theme="dark"] .sl-markdown h3 {
+  color: #f7d6d6;
+}
+
+/* ========= 链接 ========= */
+a,
+.sl-markdown a,
+.sl-sidebar a {
+  color: var(--sl-color-link);
+  border-bottom: 1px dashed var(--sl-color-link);
+  text-decoration: none;
+  transition: color 0.18s, border-bottom-color 0.18s;
+}
+
+a:hover,
+.sl-markdown a:hover,
+.sl-sidebar a:hover {
+  color: var(--sl-color-link-hover);
+  border-bottom-color: var(--sl-color-link-hover);
+}
+
+/* ========= 引用块 ========= */
+.sl-markdown blockquote {
+  border-left: 4px solid var(--sl-color-border);
+  background: rgba(224, 220, 210, 0.32);
+  padding: 1rem 1.25rem;
+  margin-inline: 0;
+  margin-block: 1.8rem;
+  font-style: italic;
+}
+
+:root[data-theme="dark"] .sl-markdown blockquote {
+  background: rgba(70, 60, 55, 0.45);
+  border-color: rgba(255, 200, 200, 0.25);
+}
+
+/* ========= 表格（基础） ========= */
+.sl-markdown table {
+  border-collapse: collapse;
+  width: 100%;
+  margin: 2rem 0;
+}
+
+.sl-markdown th,
+.sl-markdown td {
+  border: 1px solid var(--sl-color-border);
+  padding: 0.6rem 0.8rem;
+  text-align: left;
+}
+
+/* ========= Sidebar ========= */
 .sl-sidebar-section-title {
   color: #332922;
   font-weight: 700;
@@ -159,68 +141,64 @@ h3, .sl-markdown h3 { font-size: 1.17rem; }
   margin-bottom: 0.3rem;
 }
 
-/* Sidebar（侧边栏）选中项高亮美化 */
-nav [aria-current="page"],
-nav [data-active="true"] {
-  background: #fae8ea !important;    /* 柔和玫瑰米白 */
-  color: #990000 !important;         /* 玫瑰红 */
-  font-weight: 700;
-  border-radius: 7px;
-  box-shadow: none !important;
+:root[data-theme="dark"] .sl-sidebar-section-title {
+  color: #d8cec7;
 }
 
-/* 侧栏全部文字统一间距/色调 */
-nav, .sl-sidebar {
+nav,
+.sl-sidebar {
   font-family: var(--sl-font-body) !important;
   font-size: 1.07rem;
-  letter-spacing: .02em;
+  letter-spacing: 0.02em;
 }
 
-/* 表格 */
-.sl-markdown table {
-  border-collapse: collapse;
-  width: 100%;
-  margin: 2rem 0;
-}
-.sl-markdown th, .sl-markdown td {
-  border: 1px solid var(--sl-color-border);
-  padding: .6rem .8rem;
-  text-align: left;
-}
-.sl-markdown thead th {
-  background: rgba(153, 0, 0, .08);
+/* 当前页面高亮 */
+nav [aria-current="page"],
+nav [data-active="true"] {
+  background: #fae8ea !important;
+  color: #990000 !important;
+  font-weight: 700;
+  border-radius: 7px;
 }
 
-/* 链接 */
-a, .sl-markdown a, .sl-sidebar a {
-  color: var(--sl-color-link);
-  border-bottom: 1px dashed var(--sl-color-link);
-  text-decoration: none;
-  transition: color .18s, border-bottom-color .18s;
-}
-a:hover, .sl-markdown a:hover, .sl-sidebar a:hover {
-  color: var(--sl-color-link-hover);
-  border-bottom-color: var(--sl-color-link-hover);
+:root[data-theme="dark"] nav [aria-current="page"],
+:root[data-theme="dark"] nav [data-active="true"] {
+  background: rgba(153, 0, 0, 0.25) !important;
+  color: #ffcccc !important;
 }
 
-/* 引文/强调 */
-.sl-markdown blockquote {
-  border-left: 4px solid var(--sl-color-border);
-  background: rgba(224, 220, 210, .32);
-  padding: 1rem 1.25rem;
-  margin-inline: 0;
-  font-style: italic;
-}
-
-/* 让页面整体更松弛些 */
-.sl-markdown {
-  padding-block: 2rem;
-  margin-inline: auto;
-  max-width: var(--sl-content-width);
-}
-
-body {
-  max-width: none;
-  margin: 0;
+/* ========= Dark mode 全局覆盖 ========= */
+:root[data-theme="dark"] body,
+:root[data-theme="dark"] .sl-root,
+:root[data-theme="dark"] .sl-markdown,
+:root[data-theme="dark"] nav,
+:root[data-theme="dark"] .sl-sidebar {
   background: var(--sl-color-background);
+  color: var(--sl-color-text);
+}
+
+/* ========= Mobile 调整 ========= */
+@media (max-width: 700px) {
+  body {
+    padding: 0.9rem 0.4rem;
+  }
+}
+
+/* =========================================
+   ⭐ 表头颜色强制覆盖（关键部分）
+   ========================================= */
+
+/* Light mode 表头：淡淡的玫瑰米色 */
+.sl-markdown table thead th,
+table thead th {
+  background-color: rgba(153, 0, 0, 0.08) !important;
+  font-weight: 600 !important;
+}
+
+/* Dark mode 表头：稍深红，文字变浅 */
+:root[data-theme="dark"] .sl-markdown table thead th,
+:root[data-theme="dark"] table thead th {
+  background-color: rgba(153, 0, 0, 0.22) !important;
+  color: #f4f1eb !important;
+  font-weight: 600 !important;
 }
