@@ -152,29 +152,41 @@ and understand how the illusion works.
 
 ## Findings So Far
 **FOI1 → Result Vacuum**  
-Inspection and enforcement outcomes could not be produced; the internal review later contradicted the original denial.
+Inspection and enforcement outcomes could not be produced; the internal review later contradicted the original denial.  
+ER1 remains with OIC.
 
 **FOI2 → Process Vacuum**  
 No oversight records, no risk assessments, no compliance frameworks.  
-IR2 upheld the emptiness; ER2 filed.
+IR2 upheld the emptiness; ER2 has now entered the OIC queue.
 
 **FOI3 → Accountability Vacuum**  
 No ministerial briefings, no escalation to OAG/Ombudsman, no internal risk memos since 2022.  
-IR3 confirmed total silence; ER3 filed.
+IR3 confirmed total silence; ER3 has now entered the OIC queue.
 
-**FOI4 → System Structure Vacuum**  
-No legal-authority logs, no record‑keeping frameworks, no financial delegations for inspectorate functions.
+**FOI4 → Compliance Vacuum / Delay as Denial**  
+The Department was asked to prove that it keeps lawful appointment, training, recordkeeping, and financial records for the Designated Inspector system.  
+Instead, FOI4 was stretched across nearly five months: four access-phase extensions, then internal review delay, then further attempted extension.  
+No substantive decision has yet been produced.  
+ER4 is now with OIC.
 
 **FOI5 → Ministerial Oversight Vacuum**  
-Testing whether the Minister holds AWAC reports, DI governance briefings, or any statutory oversight records.
+The Minister’s office released limited peripheral material, while the most relevant briefing chain was withheld.  
+The decision misstated the timeframe, later corrected by email; searches were defended on an artificially narrow basis; and AWAC’s 2024–2025 non-functioning was asserted without a clear documentary explanation.  
+Internal review was unavailable because the Minister made the original decision.  
+ER5 is now with OIC.
 
-**Ombudsman (Sept 2025)**  
+**Ombudsman (Sept–Oct 2025)**  
 Formally refused jurisdiction over OIC delays, completing the oversight deadlock.
 
 **Outcome:**  
-Oversight bodies now verify their own inertia:  
-OIC = time black hole → Ombudsman = “no jurisdiction” → Parliament = symbolic theatre.  
-**The oversight chain has collapsed by design.**
+The pattern is now visible across all layers:  
+- DPIRD can delay access and review until decision-making itself becomes unstable;  
+- the Minister’s office can disclose low-risk fragments while shielding the decisive material;  
+- OIC absorbs the residue into a backlog;  
+- Ombudsman declines jurisdiction;  
+- Parliament receives the archive as theatre, not correction.
+
+**The oversight chain has not merely failed. It has become a machine for converting absence into procedure.**
 
 → See full chronology in the [Action Log](/action-log).
 
@@ -225,7 +237,7 @@ What vanishes in this silence is not just institutional data, but the **reality 
 | 2002 | Animal Welfare Act | “Modern law” with no enforcement framework |
 | 2020 | Independent Review | 52 recommendations supported, none enacted |
 | 2023 | Trespass & DI Act | DIs created, transparency used to justify repression |
-| 2025 | FOI Cycles | Void proven across law, policy, and oversight |
+| 2025–2026 | FOI Cycles | Void proven across results, process, accountability, ministerial oversight, and review itself |
 
 ---
 
@@ -248,4 +260,4 @@ This archive exists to preserve that design in public record.
 
 ---
 
-_Last updated: November 2025_
+_Last updated: March 2026_
