@@ -154,7 +154,7 @@ The agency proved it has no rules or risk controls for its own inspectors.
 | 15 Oct 2025 | ✓ IR3 acknowledgement received                           | [IR3 Acknowledge](/resources/ir3_ack.pdf) |
 | 24 Oct 2025 | ~ IR3 extension request from DPIRD                       | [IR3 Extension](/resources/ir3_extension.pdf) |
 | 7 Nov 2025  | ✖ IR3 decision issued — confirms narrow scope and “no documents” position | [IR3 Decision](/resources/Ir3.pdf) |
-| 9 Nov 2025  | ✓ External Review lodged with OIC (ER3)                 | [ER3 Application](/resources/Er3.pdf) |
+| 9 Nov 2025  | ✓ External Review lodged with OIC (ER3)                 | [ER3 Application](/resources/Er3_ack_email.pdf) |
 | 1 Dec 2025 | ~ OIC acknowledgement received for ER3                  | [ER3 OIC Email](/resources/Er3_oic_email.pdf), [ER3 Acknowledge Letter](/resources/Er3_ack_letter.pdf) |
 
 ### 📝 FOI3 Summary
