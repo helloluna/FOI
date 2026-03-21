@@ -44,7 +44,7 @@ Each document is a structural artifact:
 - ~ [OIC Filing Email – FOI2025-017 (ER2)](/resources/Er2_oic_email.pdf)  
 - ~ [OIC Acknowledgement Email – FOI2025-017 (ER2)](/resources/Er2_ack_email.pdf)  
 - ~ [OIC Acknowledgement Letter – FOI2025-017 (ER2)](/resources/Er2_ack_letter.pdf)  
-- ✓ [External Review Application – FOI2025-049 (ER3)](/resources/Er3.pdf)  
+- ✓ [External Review Application – FOI2025-049 (ER3)](/resources/Er3_ack_email.pdf)  
 - ~ [OIC Filing Email – FOI2025-049 (ER3)](/resources/Er3_oic_email.pdf)  
 - ~ [OIC Acknowledgement Email – FOI2025-049 (ER3)](/resources/Er3_ack_email.pdf)  
 - ~ [OIC Acknowledgement Letter – FOI2025-049 (ER3)](/resources/Er3_ack_letter.pdf)  
