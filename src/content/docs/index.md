@@ -1,263 +1,108 @@
 ---
 title: Home
-description: Overview of WA’s animal welfare FOI timeline, structural vacuums, and democratic illusion.
+description: Public evidence archive of WA animal welfare administration, FOI decisions and oversight pathways.
 ---
 
 # WA Animal Welfare Transparency Archive
 
-> *A public memory — against forgetting.*  
-> *A witness to systems that perform oversight while practising erasure.*
-
----
+> *A public memory — against forgetting.*
 
 ## What This Is
-This site is a **public evidence archive**.  
-It records not only what government said — but what it refused to document.  
 
-Each FOI request produces one of four symbols:  
-`✓ Found` · `~ In process` · `∅ None` · `✖ Hidden`  
-Together they map **how oversight collapses in plain sight**.
+**unseenbeings** is a public evidence archive. It follows an ordinary citizen's attempt to understand how Western Australia's statutory animal welfare regulator monitors and evaluates the Designated Inspector (DI) function.
+
+The archive asks a simple question: when a government has responsibility for protecting animals, how can the public know how well that responsibility is being fulfilled?
+
+It preserves official documents, including positive disclosures, access refusals, decisions, correspondence and the limits of what those records establish. It also records the distinct responses of institutions responsible for information access, administrative review, audit and parliamentary scrutiny.
+
+**Evidence guide:** `✓` disclosed or confirmed · `~` procedural step or pending · `∅` requested documents not found or assessed as nonexistent · `✖` withheld or request declined.
+
+A missing document is not necessarily a missing activity. An exemption is not evidence of nonexistence. An access decision is not a determination of regulatory effectiveness.
 
 ---
 
 ## 🕊️ The Story of Citizen A
 
-> *What happens when an ordinary person tries to see?*
+*What happens when an ordinary person tries to see?*
 
-**Citizen A is an ordinary person.**  
-She has no title, no connections—only the memory of caring for a few animals and knowing they could feel pain.  
-So she asked a simple question: *How are farmed animals living now?*
+Citizen A wanted to know how farmed animals were being protected. She asked for inspection counts, enforcement outcome summaries and internal assessments of the capacity and performance of the Designated Inspector function.
 
-She searched through government websites and found only gentle sentences:
+The first FOI request produced a statistics document compiled for the applicant and refusals under section 26. Subsequent requests asked about governance, operational procedures, risk assessment and reporting to decision-makers. The documents did not answer all of these questions.
 
-> “We are deeply committed to animal welfare.”
+In April 2026 a further request produced records of administrative infrastructure: appointment, training, recordkeeping and previous FOI searches. The existence of these documents matters. Their disclosure narrowed the question from whether an administrative system exists at all to how its adequacy and effectiveness are assessed.
 
-But every link opened onto emptiness—no inspection reports, no penalty records,  
-not even a document describing how inspections were done.
+On 7 September 2026 the Information Access Deputy Commissioner completed the first external review. Individual inspection records existed; the requested aggregate records were likely never created. The particular evaluation, reporting and audit activities requested had not been undertaken, according to the agency's submissions. The FOI review addressed access to existing documents, not the wider merits of the regulatory system.
 
-So she lodged a Freedom of Information (FOI) request—  
-the law that promises citizens the “right to know.”
+Citizen A returned to the Ombudsman. Her individual complaint about the underlying administration was declined on grounds of insufficient personal interest. A separate service complaint and a systemic investigation topic suggestion were submitted in November 2026.
 
-The first reply came quickly:
+The story is still unfolding. The question has changed: not only what is recorded about the lives of animals, but also **what happens when a citizen asks an institution to examine how public responsibilities are carried out.**
 
-> “No such documents exist.”
-
-Citizen A was confused.  
-None at all?  
-Then how is the government supervising anything?
-
-She sent an internal review request. Weeks later, a new letter arrived:
-
-> “Some records exist, but they cannot be released.”
-
-So “nothing” became “something, but you can’t see it.”
-
-She asked again:  
-Are there rules for inspections?  
-A standard operating procedure?  
-Any internal risk assessments?
-
-The answer was always the same:
-
-> “No documents exist.”
-
-It turned out there were not only no results—there was no process.
-
-So she filed a third FOI.  
-If all this was missing, had the Agriculture Department reported the issue to the Minister?  
-To Parliament?
-
-Weeks later, the answer came:
-
-> “No documents exist.”
-
-Not a single risk assessment.  
-No briefing note.  
-No memo.  
-
-Even silence had no record.
-
-While sending that request, she also asked the Office of the Information Commissioner (OIC) to review the Department’s handling.  
-But OIC had troubles of its own:
-
-> “Our case backlog is significant. There is no estimated timeframe.”
-
-She then turned to the Ombudsman, asking them to examine the OIC.  
-A courteous letter came back:
-
-> “By law, we cannot investigate the OIC.”  
-> And because the OIC was still reviewing the Department, the Ombudsman could not investigate the Department either.
-
-It was like hearing a door quietly lock.
-
-So she looked deeper.  
-She found that the OIC, the Ombudsman, Parliament committees, and the Auditor General are all **exempt from the FOI Act**.
-
-The very bodies meant to oversee the system  
-are themselves outside public scrutiny.
-
-She tried one more thing:  
-Filed an FOI with the OIC itself, asking for internal policies—  
-How are cases assigned? What are their timelines? How many are delayed?
-
-Weeks passed.  
-Then a short letter arrived:
-
-> “This office is listed in Schedule 2 of the Freedom of Information Act.  
-> The Act does not apply to us.”
-
-Even her filing fee was returned.
-
-**Citizen A smiled.**  
-She had finally seen the full picture:
-- The Agriculture Department was waiting on the OIC.  
-- The OIC could not be supervised.  
-- The Ombudsman could not investigate the OIC.  
-- Parliament could only accept and archive complaints.
-
-All the doors were still there—  
-yet behind each one waited another that read, “Temporarily unavailable.”
-
-She began to understand:  
-inside this grand palace of procedure, everyone had a part to play—  
-one was in charge of saying *“nothing,”*  
-one of saying *“waiting,”*  
-one of saying *“no authority,”*  
-and one of filing everything away.
-
-**Together, they formed a perfect circle,  
-whose center was no one responsible.**
-
-Citizen A felt no anger, and she did not cry.  
-She simply arranged all the letters and refusals,  
-and placed them on a small website.  
-No accusations, no conspiracy theories—just documents and dates.
-
-She called it **Unseen Beings**.
-
-> *The site is a mirror,*  
-> *letting people see for themselves:*  
-> *when an ordinary citizen seeks the truth,*  
-> *the democratic system can, politely and procedurally,*  
-> *show her nothing at all.*
-
-“This isn’t the end of the story,” she says.  
-“It’s only the edge of the map.”
-
-Someday, perhaps, citizens B, C, and D will walk this same path,  
-see the map she left behind,  
-and understand how the illusion works.
+She keeps the documents, including those that challenge her initial interpretation.
 
 ---
 
-## Findings So Far
-**FOI1 → Result Vacuum**  
-Inspection and enforcement outcomes could not be produced; the internal review later contradicted the original denial.  
-ER1 remains with OIC.
+## Findings So Far — November 2026
 
-**FOI2 → Process Vacuum**  
-No oversight records, no risk assessments, no compliance frameworks.  
-IR2 upheld the emptiness; ER2 has now entered the OIC queue.
+| Cycle | Documented position | Latest confirmed review status |
+|---|---|---|
+| FOI1 — Result vacuum | Individual inspection records exist. Requested aggregate and outcome summaries were likely never created; specified evaluation activities had not been undertaken according to DPIRD. | ER1 completed 7 Sep 2026 (D0182026). |
+| FOI2 — Process vacuum | Scope-specific oversight, risk and procedural records refused under s.26. Broader GI arrangements must also be considered. | ER2 continuation confirmed 15–16 Sep 2026. |
+| FOI3 — Accountability vacuum | Requested ministerial, oversight and internal risk documents refused under s.26; search and scope remain disputed. | ER3 continuation confirmed 15–16 Sep 2026. |
+| FOI4 — Administrative infrastructure and assurance gaps | Appointment, training, recordkeeping and FOI search material disclosed in April; June addendum identifies an additional financial document withheld under the Cabinet exemption. | ER4 continuation confirmed 26–29 Jun 2026. |
+| FOI5 — Ministerial oversight | AWAC annual reports for 2022 and 2023 and a general-inspector training report disclosed; four briefing/drafting documents withheld under Cabinet exemption. | ER5 correspondence issued 10 Apr 2026. |
 
-**FOI3 → Accountability Vacuum**  
-No ministerial briefings, no escalation to OAG/Ombudsman, no internal risk memos since 2022.  
-IR3 confirmed total silence; ER3 has now entered the OIC queue.
+The final FOI1 decision is published as *Re MW2 and Department of Primary Industries and Regional Development* [2026] WAICmr 18, D0182026 (7 September 2026). See the [OIC official decision index](https://www.wa.gov.au/organisation/office-of-the-information-commissioner/commissioners-foi-act-decisions-2026-2030-office-of-the-information-commissioner).
 
-**FOI4 → Compliance Vacuum / Delay as Denial**  
-The Department was asked to prove that it keeps lawful appointment, training, recordkeeping, and financial records for the Designated Inspector system.  
-Instead, FOI4 was stretched across nearly five months: four access-phase extensions, then internal review delay, then further attempted extension.  
-No substantive decision has yet been produced.  
-ER4 is now with OIC.
+The dates above identify the latest confirmed events in the records examined; they do not guarantee that an unresolved review remains in exactly the same position today.
 
-**FOI5 → Ministerial Oversight Vacuum**  
-The Minister’s office released limited peripheral material, while the most relevant briefing chain was withheld.  
-The decision misstated the timeframe, later corrected by email; searches were defended on an artificially narrow basis; and AWAC’s 2024–2025 non-functioning was asserted without a clear documentary explanation.  
-Internal review was unavailable because the Minister made the original decision.  
-ER5 is now with OIC.
+### Administrative oversight
 
-**Ombudsman (Sept–Oct 2025)**  
-Formally refused jurisdiction over OIC delays, completing the oversight deadlock.
+- **OIC:** The first external review has concluded. OIC now publishes a [Queue Management Policy and review guidance](https://www.wa.gov.au/organisation/office-of-the-information-commissioner/foi-manuals-and-guides-office-of-the-information-commissioner); its 2025 correspondence is a historical record of the earlier arrangements.
+- **Ombudsman:** The individual DPIRD complaint was declined on 20 November 2026, with the section 18(1)(c) basis clarified on 25 November. This was not a substantive finding about DI administration.
+- **Service complaint:** Submitted on 25 November concerning earlier procedural advice; automated receipt recorded.
+- **Systemic investigation suggestion:** Submitted separately on 25 November under the Ombudsman's [public invitation](https://ombudsman.wa.gov.au/about-us/news-and-events/lifting-veil-our-new-investigation-standards). No topic-selection outcome is yet recorded.
 
-**Outcome:**  
-The pattern is now visible across all layers:  
-- DPIRD can delay access and review until decision-making itself becomes unstable;  
-- the Minister’s office can disclose low-risk fragments while shielding the decisive material;  
-- OIC absorbs the residue into a backlog;  
-- Ombudsman declines jurisdiction;  
-- Parliament receives the archive as theatre, not correction.
-
-**The oversight chain has not merely failed. It has become a machine for converting absence into procedure.**
-
-→ See full chronology in the [Action Log](/action-log).
+→ Follow the [Action Log](/action-log) for the full chronology and [Resources](/resources) for the source register.
 
 ---
 
 ## 🧩 Analyses & Evidence
 
-These pages place the FOI evidence within its structural context —  
-how transparency became its own disguise,  
-and how the OIC was *starved into dysfunction.*
+- [Official Claims vs. Reality](/contradictions) — compares official statements with records obtained through the archive.
+- [25 Years of Legislative Theatre](/legislative-timeline) — a historical interpretation of reform, implementation and oversight.
+- [The Illusion of Democratic Oversight](/democratic-illusion) — the archive's broader institutional and philosophical argument.
+- [WA OIC: Systemic Resource Starvation (2002–2025)](/oic-starvation) — historical analysis of resourcing and review performance.
 
-- 🪞 [The Illusion of Democratic Oversight](/democratic-illusion)  
-  *How a transparent system becomes its own mask.*
-
-- 📉 [WA OIC: Systemic Resource Starvation (2002–2025)](/oic-starvation)  
-  *23 years of deliberate underfunding and predictable collapse.*
-
----
-
-## 📚 Context & History
-
-To understand how this system evolved —  
-how promises repeated, language recycled, and accountability dissolved —  
-read these two historical mirrors:
-
-- ⚖️ [Official Claims vs. Reality](/contradictions)  
-  *What governments said about animal welfare — and what FOI records reveal.*
-
-- 🏛️ [25 Years of Legislative Theatre](/legislative-timeline)  
-  *A quarter century of debates that promised transparency, delivered silence.*
+**Editorial note:** These longer analytical pages predate the September 2026 final decision and several later disclosures. They are retained as earlier analysis pending a detailed source and calculation review. Where their conclusions conflict with the updated Action Log, the scope-qualified findings in the current record take precedence. Motive and systemic design remain interpretive questions, not findings made by the FOI reviewer.
 
 ---
 
 ## Why It Matters
 
-Since 2023, unauthorised filming or entry into animal farming facilities has been criminalised in WA.  
-This leaves **Designated Inspectors (DIs)** as the **sole legal witnesses** inside spaces where animals often endure **extreme confinement, mutilation, and psychological trauma**.
+The 2023 changes to the Animal Welfare Act and related trespass legislation provide an important context for the DI function. Government inspectors can enter specified facilities under statutory powers. Understanding how inspection outcomes are monitored, risks assessed and enforcement performance evaluated is therefore a public-interest question.
 
-What vanishes in this silence is not just institutional data, but the **reality of lives endured in cages, crates, and industrial sheds**.  
-**Animals live, suffer, and die in silence. This site ensures that silence is not total.**
+The absence of a particular summary or assessment does not tell us what every animal experienced. It does tell us something about what the requested records can and cannot show.
 
----
-
-## Transparency Timeline (Key Points)
-
-| Year | Event | Reality |
-|------|-------|----------|
-| 2002 | Animal Welfare Act | “Modern law” with no enforcement framework |
-| 2020 | Independent Review | 52 recommendations supported, none enacted |
-| 2023 | Trespass & DI Act | DIs created, transparency used to justify repression |
-| 2025–2026 | FOI Cycles | Void proven across results, process, accountability, ministerial oversight, and review itself |
-
----
+Animals cannot lodge FOI requests, participate in parliamentary proceedings or pursue administrative complaints themselves. The archive preserves the available record so that others can examine the question independently.
 
 ## Structural Meaning
-What began as bureaucracy has revealed itself as **architecture** —  
-a deliberately hollow system built to display responsibility while erasing evidence.  
-This archive exists to preserve that design in public record.
+
+*Results, process and accountability* remain the three central questions of this project. The archive examines the possibility that legally valid procedures can leave an underlying public-interest issue without substantive examination. That possibility is an analytical hypothesis, not a presumption that every institution is inactive or intentionally evasive.
+
+The evidence is allowed to change the argument.
 
 ---
 
 ## Navigate
 
-- 📜 [Action Log](/action-log) – FOI cycles and institutional responses  
-- ⚖️ [Official Claims vs. Reality](/contradictions) – government statements vs. FOI findings  
-- 🏛️ [25 Years of Legislative Theatre](/legislative-timeline) – long-view pattern of promises and voids  
-- 🧩 [The Illusion of Democratic Oversight](/democratic-illusion) – how transparency becomes its own disguise  
-- 📉 [WA OIC: Systemic Resource Starvation (2002–2025)](/oic-starvation) – 23 years of deliberate underfunding and collapse  
-- 📂 [Resources](/resources) – all source documents  
-- 🧭 [About](/about) – method & philosophy
+- 📜 [Action Log](/action-log) — chronology of requests and responses
+- 📂 [Resources](/resources) — source documents and publication register
+- ⚖️ [Official Claims vs. Reality](/contradictions) — comparisons
+- 🏛️ [Legislative Timeline](/legislative-timeline) — historical context
+- 🧩 [Democratic Oversight](/democratic-illusion) — interpretation
+- 📉 [OIC Resourcing](/oic-starvation) — historical data
+- 🧭 [About](/about) — method and philosophy
 
 ---
 
-_Last updated: March 2026_
+_Last updated: 25 November 2026_
