@@ -93,6 +93,7 @@ Aggregate DI inspection counts, summaries of inspection outcomes, and internal e
 | 9 Oct 2025   | Ombudsman   | Further correspondence concerning jurisdiction and the pending FOI review | [Ombudsman No Reply](/resources/Ombudsman_noreply.pdf) |
 | 16 Oct 2025  | Estimates & Financial Operations Committee | Acknowledged the submission; no follow-up recorded at that stage | [Financial Committee Reply](/resources/Financial_committee_reply.pdf) |
 | 22 Oct 2025  | Public Administration Committee | Acknowledged receipt; further correspondence is not published |
+| 6 May 2026 | Estimates & Financial Operations Committee | Considered the FOI4 and FOI5 correspondence and resolved to note it and take no further action | Committee correspondence, 6 May 2026 (publication copy pending) |
 
 **Subsequent Ombudsman pathway (2026):**
 
