@@ -11,8 +11,42 @@ This archive is a **memory scaffold** — a trace of what institutions reveal, c
 Each document is a structural artifact:  
 - `✓` Found – documents released
 - `~` In process – delay or procedural step  
-- `∅` None – no documents exist  
-- `✖` Withheld – access refused or exempt
+- `∅` Not found / assessed as nonexistent – within the stated scope of a decision  
+- `✖` Withheld or declined – access refused, exemption applied, or a separate request declined
+
+---
+
+## 2026 Source Update
+
+_Last updated: 25 November 2026._
+
+The latest decisions and correspondence are reflected in the [Action Log](/action-log). Links to publicly issued material are provided where available. Documents received directly by the applicant are listed below by title and date while suitable publication copies are prepared. Listing a document here does not indicate that it has been uploaded, or that its entire content may be published.
+
+### Publicly available institutional sources
+
+- ✓ [OIC official decisions index (2026–2030)](https://www.wa.gov.au/organisation/office-of-the-information-commissioner/commissioners-foi-act-decisions-2026-2030-office-of-the-information-commissioner) — D0182026, *Re MW2 and Department of Primary Industries and Regional Development* [2026] WAICmr 18, 7 September 2026. Final determination of ER1; see paragraphs 13–21 for the distinction between individual inspection records, requested summaries and specified evaluation activities.
+- ✓ [OIC FOI manuals and guides](https://www.wa.gov.au/organisation/office-of-the-information-commissioner/foi-manuals-and-guides-office-of-the-information-commissioner) — current Queue Management Policy and external review guidance.
+- ✓ [OIC review of agency decisions](https://www.wa.gov.au/organisation/office-of-the-information-commissioner/review-of-agency-decisions-office-of-the-information-commissioner) — current public guidance on external review and prioritisation.
+- ✓ [Ombudsman WA — public invitation for investigation topic suggestions, 16 June 2026](https://ombudsman.wa.gov.au/about-us/news-and-events/lifting-veil-our-new-investigation-standards) — includes access to the Investigation Standards.
+- ✓ [Ombudsman WA — feedback procedure](https://ombudsman.wa.gov.au/about-us/about/feedback) — separate service feedback and review processes.
+
+### Primary documents held — publication copies not yet added
+
+| Record | Date | Matter |
+|---|---|---|
+| DPIRD Notice of Decision and document schedule | 28 Apr 2026 | FOI2025-059 |
+| DPIRD Addendum Notice of Decision | 26 Jun 2026 | FOI2025-059 |
+| Applicant confirmation to continue and OIC receipt | 26–29 Jun 2026 | ER4 |
+| OIC allocation correspondence and applicant's further submissions | 14–15 Jul 2026 | ER3 |
+| OIC final decision note | 7 Sep 2026 | F2025236 / D0182026 (public index above) |
+| OIC and applicant continuation correspondence | 15–16 Sep 2026 | ER2 and ER3 |
+| OIC external review correspondence | 10 Apr 2026 | ER5 |
+| Renewed administrative complaint and follow-up | 27 Oct and 15 Nov 2026 | Ombudsman — DPIRD |
+| Decision not to investigate and clarification | 20 and 25 Nov 2026 | Ombudsman — DPIRD |
+| Service complaint and automated receipt | 25 Nov 2026 | Ombudsman — procedural advice |
+| Systemic investigation topic suggestion | 25 Nov 2026 | Ombudsman — DI administration |
+
+No new personal addresses, private contact details or raw private emails are reproduced in this register. The primary records are retained separately until privacy, publication and any confidentiality requirements have been checked.
 
 ---
 
@@ -25,7 +59,7 @@ Each document is a structural artifact:
 - ∅ [Section 26 Statement](/resources/foi_request_section_26_statement.pdf)  
 - ~ [Due Date Extension Request](/resources/FOI2025-008-Request-for-due-date-extension.pdf)  
 - ∅ [Notice of Decision – 30 May 2025](/resources/notice_of_decision.pdf)  
-- ~ [Facility Inspection Summary (Document 1)](/resources/foi_document_1_summary.pdf)  
+- ✓ [Facility Inspection Summary (Document 1; courtesy document compiled for applicant)](/resources/foi_document_1_summary.pdf)  
 - ~ [OIC Rejection – 12 June 2025](/resources/oic-rejection.pdf)  
 - ✓ [Internal Review Request Email – 13 June 2025](/resources/Internal-Review-Acknowledgement.pdf)
 - ~ [DPIRD Internal Review Acknowledgement – 12 June 2025](/resources/Internal-Review-Acknowledgement-Letter.pdf)  
@@ -42,7 +76,6 @@ Each document is a structural artifact:
 - ✓ [OIC FOI Exemption Document](/resources/Oic_foi.pdf)  
 - ✓ [External Review Application – FOI2025-017 (ER2)](/resources/Er2.pdf)  
 - ~ [OIC Filing Email – FOI2025-017 (ER2)](/resources/Er2_oic_email.pdf)  
-- ~ [OIC Acknowledgement Email – FOI2025-017 (ER2)](/resources/Er2_ack_email.pdf)  
 - ~ [OIC Acknowledgement Letter – FOI2025-017 (ER2)](/resources/Er2_ack_letter.pdf)  
 - ✓ [External Review Application – FOI2025-049 (ER3)](/resources/Er3_ack_email.pdf)  
 - ~ [OIC Filing Email – FOI2025-049 (ER3)](/resources/Er3_oic_email.pdf)  
@@ -100,7 +133,7 @@ Each document is a structural artifact:
 - ✓ [OAG Reply – Scope Clarification](/resources/OAG_reply.pdf)
 - ✓ [OIC-Ombudsman Complaint Form](/resources/OIC_Ombudsman_Complain_Form.pdf)  
 - ~ [Ombudsman Deadlock Reply](/resources/Ombudsman_oic_deadlock.pdf)  
-- ∅ [Ombudsman Refusal to Investigate OIC – 3 Oct 2025](/resources/ombudsman_no_oic.pdf)
+- ✖ [Ombudsman Refusal to Investigate OIC – 3 Oct 2025](/resources/ombudsman_no_oic.pdf)
 - ~ [Ombudsman No Reply – 9 Oct 2025](/resources/Ombudsman_noreply.pdf)  
 
 ---
@@ -120,8 +153,8 @@ Each document is a structural artifact:
 
 ## 📚 Legislative Reviews & Public Submissions
 - ✓ [Easton Review – 2015](/resources/awa_review_2015.pdf)
-- ✓ [Independent Panel Report – 2020](/resources/AWA_Review_2020.pdf)  
-- ~ [WA Government Response – 2021](/resources/AWA_Review_Government_Response.pdf)  
+- ✓ [Independent Panel Report – 2020](/resources/awa_review_final_2020.pdf)  
+- ~ [WA Government Response – 2021](/resources/awa_review_government_response_2021.pdf)  
 - ✓ [Stakeholder Submissions – 2019](/resources/awa_review_panel_stakeholder_submissions.pdf)  
 - ~ [Stakeholder Forums Summary – 2020](/resources/awa_review_panel_stakeholder_forums.pdf)  
 - ✓ [Hansard – Animal Welfare Bill 2001 Introduction](/resources/2001.pdf)  
@@ -225,10 +258,14 @@ Each document is a structural artifact:
 ---
 
 ## 🚫 Not Yet Released / Under Request
-- ∅ **AWAC meeting minutes (2022–2025)** — FOI Round 2 pending
-- ∅ **DI training protocols** — no public access granted  
-- ∅ **Enforcement audits or evaluations** — declared nonexistent under FOI  
-- ∅ **Public-facing DI inspection data** — still structurally absent  
+
+- **FOI1:** Requested aggregate and outcome summaries likely never created; specified evaluation, reporting and audit activities were stated not to have been undertaken. Individual records exist. See D0182026.
+- **FOI2:** Requested DI-related advisory, risk and procedural documents remain subject to the scope-specific section 26 decisions; ER2 continuation confirmed in September 2026.
+- **FOI3:** Requested briefing, oversight correspondence and risk documents remain subject to the scope-specific section 26 decisions; ER3 continuation confirmed in September 2026.
+- **FOI4:** Two specified scope points remain under section 26 in the June addendum; an additional financial document is withheld under the Cabinet exemption. Appointment, training, recordkeeping and search materials were disclosed in April.
+- **FOI5:** Four ministerial briefing/drafting documents were withheld under the Cabinet exemption. AWAC annual reports for 2022 and 2023 and general-inspector training material were disclosed.
+
+“Not yet released” does not imply that every listed document exists. Conversely, the existence of a withheld document must not be coded as a documentary absence.
 
 ---
 
